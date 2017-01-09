@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "关于我"
+    url: /about/
+  - title: "所有博文"
+    url: /archive/
+  - title: "按主题"
+    url: /categories/
+  - title: "按标签"
+    url: /tags/
