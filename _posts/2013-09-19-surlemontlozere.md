@@ -34,11 +34,11 @@ title: Sur le mont Lozère
 
 下面是那位 Stevenson 说的。
 
->> Pour être appréciée à sa juste valeur une randonnée pédestre devrait être entreprise seul. La marche à plusieurs, ou même à deux, n'a plus de randonnée que le nom ; c'est quelque chose d'autre, qui ressemble à un pique-nique. Une randonnée pédestre devrait être entreprise seul, parce que la liberté en est l'essence.
+> Pour être appréciée à sa juste valeur une randonnée pédestre devrait être entreprise seul. La marche à plusieurs, ou même à deux, n'a plus de randonnée que le nom ; c'est quelque chose d'autre, qui ressemble à un pique-nique. Une randonnée pédestre devrait être entreprise seul, parce que la liberté en est l'essence.
 
 大致就是说徒步就应该是一个人做的事情，因为徒步的精髓就在于体验在大自然中的自由。说的是挺好的，尽管他，在繁星下的峰顶，也感受到了孤独，希望有个安静的人躺在身边。
 
->> Car il existe une camaraderie plus reposante même que la solitude et qui, bien comprise, est la solitude portée à son point de perfection. Et vivre à la belle étoile avec la femme que l'on aime est de toutes les vies la plus totale et la plus libre.
+> Car il existe une camaraderie plus reposante même que la solitude et qui, bien comprise, est la solitude portée à son point de perfection. Et vivre à la belle étoile avec la femme que l'on aime est de toutes les vies la plus totale et la plus libre.
 
 这个地区的法国都还挺好的，第一天我买明信片没零钱一个人还送了我2欧...
 
