@@ -53,7 +53,7 @@ $$
 
 Magritte 的绘画作品「图片的欺骗」中的下面这幅作品就打破了这个同构[^4]。
 
-[![]({{ site.url }}/assets/images/2016/11/Magritte.jpg)]({{ site.url }}/assets/images/2016/11/Magritte.jpg)
+[![]({{ site.url }}/assets/images/2017/01/Magritte.jpg)]({{ site.url }}/assets/images/2017/01/Magritte.jpg)
 
 下面那句「Ceci n'est pas une pipe」，即翻译成中文「这不是一个烟斗」。这句话中的「烟斗」我们取它在现实生活中的烟斗指代，即一个真实的烟斗。而这幅画的 signifié 就只是一个烟斗的概念，而且我们不考虑这幅画具体在现实生活中的指代物。于是，这幅画的确不是一个现实中的烟斗，因为这幅画指代表了一个烟斗的概念。我们这里既打破了这幅画的同构（因为我们指考虑它的 signifié），也打破了「烟斗」的同构（因为我们只考虑它的 référent）。
 
