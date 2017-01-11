@@ -7,4 +7,4 @@ permalink: /about/
 
 Email: tianyikillua (at) gmail (dot) com
 
-LinkedIn: [https://www.linkedin.com/in/tianyikillua](https://www.linkedin.com/in/tianyikillua)
+本博客采用[知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc-nd/4.0)进行许可。
