@@ -1,8 +1,9 @@
 ---
-title: Template LaTeX pour thèses de l'Université Paris-Saclay
+title: Template LaTeX pour les thèses de l'Université Paris-Saclay
 tags:
   - 博士
   - LaTeX
+modified: 2017-03-12
 ---
 
 正以为自己开始走出抑郁症的时候，今天 Saint-Goblin 却告诉我没被录用。昨天晚上又在重温“[冷暖人间](https://movie.douban.com/subject/1997612/)”，突然听到一句话，觉得挺好的：
@@ -25,13 +26,11 @@ Paris-Saclay 博士论文的官方样板在[这里](https://www.universite-paris
 
 封面 / Page de garde
 
-下面是所做出一些字体微改后的论文封面，如果喜欢的话去我的 Bitbucket 下载，在：[https://bitbucket.org/litianyi/thesis-manuscript](https://bitbucket.org/litianyi/thesis-manuscript) / Ci-dessous un template LaTeX de la page de garde. Vous trouverez la source sur mon repository Bitbucket
+下面是所做出一些字体微改后的论文封面，如果喜欢的话去我的 Bitbucket 下载，在：[https://bitbucket.org/litianyi/thesis-manuscript](https://bitbucket.org/litianyi/thesis-manuscript) / Voici un template LaTeX pour la page de garde que vous retrouverez sur mon repository Bitbucket.
 
-之后找 `thesis-manuscript/auxfiles/titlepage.tex` 就可以了 / C'est ça le fichier qu'il vous faut :-)
+之后找 `thesis-manuscript/auxfiles/titlepage.tex` 就可以了。
 
-矢量图的 Paris-Saclay 的 logo 在[这里](https://dl.dropboxusercontent.com/u/4509593/Thesis/PSaclay.pdf)) / Le logo vectoriel en PDF (via `potrace`) de l'Université Paris-Saclay se trouve [ici](https://dl.dropboxusercontent.com/u/4509593/Thesis/PSaclay.pdf)
-
-矢量图的 Ecole Polytechnique 的 logo 在[这里](https://dl.dropboxusercontent.com/u/4509593/Thesis/X2.pdf) / Le logo vectoriel de l'X est [ici](https://dl.dropboxusercontent.com/u/4509593/Thesis/X2.pdf)
+矢量化（通过 `potrace` 软件）的 Paris-Saclay 的 logo 和 Ecole Polytechnique 的 logo 也可以在我的 Bitbucket 的 [Downloads](https://bitbucket.org/litianyi/thesis-manuscript/downloads/) 页面找到 / Les logos vectorisés de Paris-Saclay et de l'École Polytechnique se trouvent aussi dans mon repository Bitbucket ([Downloads](https://bitbucket.org/litianyi/thesis-manuscript/downloads/)).
 
 [![]({{ site.url }}/assets/images/2016/07/Thesis-cover.png)]({{ site.url }}/assets/images/2016/07/Thesis-cover.png)
 
@@ -39,20 +38,17 @@ Paris-Saclay 博士论文的官方样板在[这里](https://www.universite-paris
 
 最后一页 / 4ème couverture
 
-LaTeX 源文件在这里：`thesis-manuscript/chapters/backcover.tex` / Voici la source LaTeX de la 4ème couverture
+LaTeX 源文件在这里：`thesis-manuscript/chapters/backcover.tex` / Source LaTeX de la 4ème couverture.
 
-由于我是 SMEMAG 的博士生，所以我就把它的 logo 给矢量化了（用 `Inkscape` 我记得，因为是多色） / Etant doctorant de l'école doctorale SMEMAG, j'ai seulement vectorisé son logo (via `Inkscape` de mémoire, car il s'agit d'une image en multicolore)
-
-- [Logo de SMEMAG](https://dl.dropboxusercontent.com/u/4509593/Thesis/SMEMAG.pdf)
-- [e..](https://dl.dropboxusercontent.com/u/4509593/Thesis/PSaclay2.pdf)
+由于我是 SMEMAG 的博士生，所以我就把它的 logo 给矢量化了（用 `Inkscape` 我记得，因为是多色）。同样，图片都在 Bitbucket 的 [Downloads](https://bitbucket.org/litianyi/thesis-manuscript/downloads/) 页面 / Les figures vectoisées utilisées dans la 4ème couverture sont aussi téléchargeable dans le package complet `Figs.7z` sur le site Bitbucket ([Downloads](https://bitbucket.org/litianyi/thesis-manuscript/downloads/)).
 
 ---
 
 主文件 / Fichier principal
 
-LaTeX 源文件在这里：`thesis-manuscript/main.tex` / Voici le fichier principal
+LaTeX 源文件在这里：`thesis-manuscript/main.tex` / Le fichier principal.
 
-下面的代码配合 `\usepackage[a-1a]{pdfx}` 是为了生成符合 PDF/A 标准的文件，为了之后博士论文的归档，这个是[规定](https://facile.cines.fr/) / Accompagné avec `\usepackage[a-1a]{pdfx}`, le code ci-dessous génère un fichier compatible avec la norme PDF/A pour l'archivage, cf. [ici](https://facile.cines.fr/)
+代码 `\usepackage[a-1b]{pdfx}` 是为了生成符合 PDF/A 标准的文件，为了之后博士论文的归档，这个是[规定](https://facile.cines.fr/) / La commande `\usepackage[a-1b]{pdfx}` permet de générer un fichier PDF compatible avec la norme PDF/A pour des fins d'archivage, cf. [ici](https://facile.cines.fr/).
 
 ```latex
 \begin{filecontents*}{\jobname.xmpdata}
@@ -63,7 +59,7 @@ LaTeX 源文件在这里：`thesis-manuscript/main.tex` / Voici le fichier princ
 \end{filecontents*}
 ```
 
-加载文件类型和引言 / Définir la classe et charger le préambule
+加载文件类型和引言 / Définir la classe et charger le fichier préambule
 
 ```latex
 \documentclass[a4paper,11pt,twoside]{book}
@@ -100,7 +96,7 @@ BibLaTeX
 \include{chapters/appendices}
 
 \backmatter
-\printbibliography
+\printbibliography[notcategory=fullcited]
 ```
 
 保证最后一页是偶数页 / Assurer que la 4ème couverture soit une page paire.
@@ -111,3 +107,5 @@ BibLaTeX
 \input{chapters/backcover}
 \end{document}
 ```
+
+> 2017年3月12日更新了链接。

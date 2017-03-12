@@ -10,7 +10,7 @@ tags:
 
 [![]({{ site.url }}/assets/images/2016/08/Shinsekai.jpg)]({{ site.url }}/assets/images/2016/08/Shinsekai.jpg)
 
-由于国内没有 Amazon 正版，所以基于[轻之国度](https://www.lightnovel.cn/thread-802163-1-1.html)所做的 TXT 版本自己通过 [calibre](http://calibre-ebook.com/) 做了带有封面（上图），带有目录，行间距适合的 MOBI 版本。[点击这里](https://dl.dropboxusercontent.com/u/4509593/Misc/Shinsekai.mobi)下载。
+由于国内没有 Amazon 正版，所以基于[轻之国度](https://www.lightnovel.cn/thread-802163-1-1.html)所做的 TXT 版本自己通过 [calibre](http://calibre-ebook.com/) 做了带有封面（上图），带有目录，行间距适合的 MOBI 版本。[点击这里](https://www.dropbox.com/s/21rkuffrajr1e65/Shinsekai.mobi)下载。
 
 ### 简介
 

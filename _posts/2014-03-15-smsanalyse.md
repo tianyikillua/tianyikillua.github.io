@@ -70,4 +70,4 @@ $$
 
 最后说句，本来以为我发 TA 的短信比 TA 发我的短信肯定多很多，结果也没多多少...发起聊天的的确我比较多...So what...
 
-[代码下载点这里](https://dl.dropboxusercontent.com/u/4509593/BlogPhotos/sms.py)
+[代码下载点这里](https://www.dropbox.com/s/fodro654uo5qws6/sms.py)
