@@ -1,6 +1,6 @@
 ---
 title: Legendre 变换
-categories:
+tags:
   - 数学
 ---
 

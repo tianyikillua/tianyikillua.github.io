@@ -1,6 +1,6 @@
 ---
 title: Clapeyron's theorem
-categories:
+tags:
   - 力学
 ---
 

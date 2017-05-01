@@ -1,6 +1,6 @@
 ---
 title: Méthode de trapèze
-categories:
+tags:
   - 数学
 ---
 

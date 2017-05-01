@@ -1,6 +1,6 @@
 ---
 title: Intégration de Lebesgue et distribution
-categories:
+tags:
   - 数学
 ---
 

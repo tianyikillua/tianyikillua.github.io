@@ -1,6 +1,6 @@
 ---
 title: Méthode de Newton
-categories:
+tags:
   - 数学
 ---
 

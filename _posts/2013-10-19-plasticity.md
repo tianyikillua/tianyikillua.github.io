@@ -1,6 +1,6 @@
 ---
 title: 塑性力学
-categories:
+tags:
   - 力学
 ---
 
