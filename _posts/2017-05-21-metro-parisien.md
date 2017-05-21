@@ -13,5 +13,13 @@ header:
 
 [![]({{ site.url }}/assets/images/2017/05/histoire-metro-parisien.jpg)]({{ site.url }}/assets/images/2017/05/histoire-metro-parisien.jpg)
 
+### 站名牌匾
+
+在巴黎地铁站台中你至少可以看到下面这三种牌匾，如果没错的话最常见的就是如下图比较现代的打印版本。
+
+[![]({{ site.url }}/assets/images/2017/05/tulerie.jpg "© [Clicsouris](https://fr.wikipedia.org/wiki/Utilisateur:Clicsouris)")]({{ site.url }}/assets/images/2017/05/tulerie.jpg)
+
+
+
 [^1]: L'Histoire du métro parisien pour les Nuls, par André Mignard et Didier Janssoone - FIRST Éditions - avril 2017
 [^2]: Petite histoire des stations de métro, par Pierre Miquel avec la contribution de Maryvonne Miquel - Éditions Albin Michel - avril 2013
