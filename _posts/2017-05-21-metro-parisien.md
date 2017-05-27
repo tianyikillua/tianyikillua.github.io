@@ -1,5 +1,6 @@
 ---
 title: 巴黎地铁站台内饰
+last_modified_at: 2017-05-27
 tags:
   - 法国
   - 巴黎
@@ -35,7 +36,7 @@ gallery3:
 
 ---
 
-上个月底出版了一本新的关于巴黎地铁历史的 Pour les nuls 系列[^1]，尽管篇幅有点短半天就可以读完，但还是可以对巴黎近100多年的地铁系统有个粗略的了解。这篇博文要讲讲巴黎地铁的站台内饰，一些以前我从来没有注意到的细节。关于巴黎地铁的站名可以参考 2013 年出版的 Petite histoire des stations de métro[^2]，可能下次会做个科普，介绍下某些有趣的站名。
+上个月底出版了一本新的关于巴黎地铁历史的 Pour les nuls 系列[^1]，尽管篇幅有点短半天就可以读完，但还是可以对巴黎近 100 多年的地铁系统有个粗略的了解。这篇博文要讲讲巴黎地铁的站台内饰，一些以前我从来没有注意到的细节。关于巴黎地铁的站名可以参考 2013 年出版的 Petite histoire des stations de métro[^2]，可能下次会做个科普，介绍下某些有趣的站名。
 
 [![]({{ site.url }}/assets/images/2017/05/histoire-metro-parisien.jpg)]({{ site.url }}/assets/images/2017/05/histoire-metro-parisien.jpg)
 
@@ -59,11 +60,11 @@ gallery3:
 
 - 尽管都是蓝底白字的瓷砖，但是字体有些很微妙的差异。CMP 的字感觉更高瘦一点，字体间距也更小；
 - Nord-Sud 的牌匾四周由串起来的橡木叶装饰，在角落或固定间距印有 Nord-Sud 的标志，比如下图就是 Sèvres-Babylone 牌匾上的 logo，是不是很帅；
-- 牌匾四周的装饰条的颜色也很有讲究。没有换乘的站台（比如 Solferino）是棕色，有换乘（比如上面的 Sèvres）或者大站（比如终点站，比如 Porte de Versailles，当时 Nord-Sud 管理的 A 线 Porte de la Chapelle - Montmartre - Montparnasse - Porte de Versailles 的终点站）是深绿色。据说唯一的例外是 Madeleine，在那牌匾装饰的颜色是蓝色……哪天我去确认下。
+- 牌匾四周的装饰条的颜色也很有讲究。没有换乘的站台（比如 Solferino）是棕色，有换乘（比如上面的 Sèvres）或者大站（比如终点站，比如 Porte de Versailles，当时 Nord-Sud 管理的 A 线 Porte de la Chapelle - Montmartre - Montparnasse - Porte de Versailles 的终点站）是深绿色。据说唯一的例外是 Madeleine，在那牌匾装饰的颜色是蓝色……哪天我去确认下（5 月 27 日注：事实上 12 号线 Madeleine 站台内已经不是 Nord-Sud 的风格了，但是有条换乘走廊的确是 N-S 的风格，而且的确是很奇怪的浅蓝色！）。
 
 [![]({{ site.url }}/assets/images/2017/05/NS.jpg)]({{ site.url }}/assets/images/2017/05/NS.jpg)
 
-但 Nord-Sud 正式运营后，在站台内饰上 CMP 顿时自感不如（要知道一开始 CMP 的牌匾貌似只是块搪瓷铁板）。在 1930 年 Nord-Sud 被 CMP 吞并后，开始关心内饰 的 CMP 决定统一下巴黎站台内部的牌匾，于是就**抄袭**了 Nord-Sud 的风格：蓝底白字的瓷砖。但 Nord-Sud 一直被抄袭，从未被超越。上面就可以看到不仅字体不一样，CMP 牌匾四周还是没有任何装饰！于是当时整个巴黎除了 12、13 号线某些站台之外，其他地方的牌匾都没有任何装饰条。当然现在也是，只不过 RATP 继续发扬了 Nord-Sud 的精神，在某些特殊的站台内饰上下了很大功夫，比如 Arts et Métier。
+但 Nord-Sud 正式运营后，在站台内饰上 CMP 顿时自感不如（要知道一开始 CMP 的牌匾貌似只是块搪瓷铁板，搞不好大小就是最上面那个 Tuileries 的尺寸）。在 1930 年 Nord-Sud 被 CMP 吞并后，开始关心内饰 的 CMP 决定统一下巴黎站台内部的牌匾，于是就**抄袭**了 Nord-Sud 的风格：蓝底白字的瓷砖。但 Nord-Sud 一直被抄袭，从未被超越。上面就可以看到不仅字体不一样，CMP 牌匾四周还是没有任何装饰！于是当时整个巴黎除了 12、13 号线某些站台之外，其他地方的牌匾都没有任何装饰条。当然现在也是，只不过 RATP 继续发扬了 Nord-Sud 的精神，在某些特殊的站台内饰上下了很大功夫，比如 Arts et Métier。
 
 ### 走廊
 
