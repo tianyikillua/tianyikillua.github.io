@@ -37,5 +37,11 @@ tags:
 
 > 昨晚在上面希尔顿临时的警察中心做了口述，发现自己对事件的发生时间和男子的年龄推测还是挺准的……
 
+> Informations du parquet fédéral : Ce qui est sûr, c'est que O.Z. était déterminé à blesser et tuer un grand nombre de personnes lorsqu'il a pénétré dans la Gare centrale à 20h39. « Il est passé par la salle des guichets, puis est descendu en direction des voyageurs qui se trouvaient au pied des escaliers. » Un attentat en soirée alors que la gare est une véritable fourmilière sur le coup de 17h, cela peut paraître étrange. Mais le Parquet confirme qu'il y avait encore assez bien de voyageurs à ce moment.
+>
+> L'individu, qui tirait une valise, s'est détaché de ce groupe de voyageurs. Peut-être à la recherche d'un groupe plus important? Mais finalement, il revient vers eux à 20h44. « Il a saisi sa valise en criant et en provoquant une explosion partielle ». Mais sans faire la moindre victime. La valise s'est embrasée, il l'a abandonnée et est descendu vers le quai à la poursuite d'un chef de gare. Entre-temps, le sac a explosé une seconde fois « de façon plus violente ». Mais toujours sans faire de victimes alors que des clous et des bonbonnes de gaz avaient été rassemblés autour de la charge explosive. « Il voulait causer plus de dégâts », confirme le Parquet. Quelle est la nature de l'explosif ? S'agit-il du traditionnel TATP généralement utilisé par les terroristes ayant fait allégeance à l'État islamique, le Parquet n'a pas commenté.
+>
+> Après ces deux explosions sans conséquences matérielle et physique, dans un probable geste de désespoir, l'individu est remonté dans le hall où il s'est précipité vers un militaire en criant « Allah Ouakbar ». Le militaire a ouvert le feu à plusieurs reprises et O.Z. est ensuite décédé de ses blessures. Il s'est précipité vers le militaire alors qu'il ne portait pas d'arme ni de ceinture explosive.
+
 [^1]: 布鲁塞尔附近火车的误点率太高了...短短两天每次坐的火车基本都出过问题。
 [^2]: "伊斯兰国会活下去。"
