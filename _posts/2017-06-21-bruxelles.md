@@ -1,5 +1,5 @@
 ---
-title: 平行世界理论 Attentat à la gare centrale de #Bruxelles
+title: 平行世界理论
 tags:
   - 布鲁塞尔
   - 恐怖袭击
