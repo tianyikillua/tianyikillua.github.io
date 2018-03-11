@@ -44,4 +44,4 @@ header:
 ```
 Github 网站提供的 `diff` 可视化更方便理解每次修宪的改动，如下图（1999年03月15日第九届全国人民代表大会第二次会议之修宪）。
 
-![](https://github.com/tianyikillua/chinese-constitution-src/raw/master/misc/diff.png)
+[![](https://github.com/tianyikillua/chinese-constitution-src/raw/master/misc/diff.png)](https://github.com/tianyikillua/chinese-constitution-src/raw/master/misc/diff.png)
