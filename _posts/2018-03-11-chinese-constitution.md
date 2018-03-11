@@ -1,4 +1,4 @@
-```
+---
 title: 中国修宪历史
 tags:
   - 中国
@@ -7,7 +7,7 @@ tags:
 header:
   image: https://upload.wikimedia.org/wikipedia/commons/c/c5/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%9C%BA%E6%9E%84.png
   caption: 图片作者 [Imyzc](https://commons.wikimedia.org/wiki/File:%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%9C%BA%E6%9E%84.png)
-```
+---
 
 
 一个法律法典的修订平行于一个软件源代码的版本更新：
