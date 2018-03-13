@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air"
 
 # Site Settings
 locale                   : "en"
@@ -51,7 +51,14 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : true # true, false (default)
+search                   : true
+search_full_content      : true
+search_provider          : algolia
+algolia:
+  application_id         : 5ODSKX9P06
+  index_name             : Blog
+  search_only_api_key    : 01c79c59b07558a5bba71b1347ead4d9
+  powered_by             : true
 
 # SEO Related
 google_site_verification :
@@ -89,6 +96,7 @@ author:
   location         : "Paris"
   email            :
   uri              :
+  home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        : "litianyi"
   codepen          :
   dribbble         :
@@ -96,6 +104,7 @@ author:
   facebook         :
   foursquare       :
   github           : "tianyikillua"
+  gitlab           :
   google_plus      :
   keybase          :
   instagram        :
