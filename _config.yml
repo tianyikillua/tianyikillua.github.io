@@ -259,6 +259,7 @@ defaults:
       comments: true
       share: false
       related: true
+      classes: wide
   # _pages
   - scope:
       path: ""
@@ -266,3 +267,4 @@ defaults:
     values:
       layout: single
       author_profile: true
+      classes: wide
