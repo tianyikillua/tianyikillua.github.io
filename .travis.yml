@@ -1,0 +1,11 @@
+# .travis.yml
+# This file should be at the root of your project
+language: ruby
+cache: bundler
+script:
+  - bundle exec jekyll algolia
+branches:
+  only:
+    - master
+rvm:
+ - 2.4
