@@ -69,65 +69,38 @@ $$
 下面看看这段原文
 
 > Séances ciné à l’envie,
->
 > Into the Wild devient Bienvenue chez les Ch’tis,
->
 > Nicolas, c’est mon mentor,
->
 > D’autres anecdotes encore et encore. 
 >
->
->
->
 > Homme de caractère,
->
 > Tu n’es pas Picard sans être fier,
->
 > Parisien depuis longtemps,
->
 > La capitale est ton élément.
 >
->
->
 > Homme de convictions,
->
 > Il n’est pas rare que tu montes au front,
->
 > Débats idéologiques à toute heure,
->
 > Sur Facebook tu partages tes humeurs.
 
 可以发现这三段法语有诗歌的形式，每段的前后两句都有押韵，所以当时我翻译地很痛苦，因为特地都用七言（绝）句（一点都不「绝」应该，我不是中文高手，就算能勉强做到「达」，但肯定做不到「雅」）的方式来体现形式上相同的信息量。
 
 > 电影院里不停歇、
->
 > 霸王别姬接色戒$$^*$$、
->
 > 良师益友乃小尼、
->
 > 趣闻轶事出书籍。
 >
->
->
 > 噢君乃个性之人、
->
 > 自豪的北方$$^*$$之魂、
->
 > 多年生活在巴黎、
->
 > 如鱼得水在此立。
 >
->
->
 > 噢君乃信念之人、
->
 > 第一线战斗之魂、
->
 > 观念辩论你常练、
->
 > 情绪贴上朋友圈$$^*$$。
 
-#### 形式 signifiant 重要还是内容 signifié 重要
+### 形式 signifiant 重要还是内容 signifié 重要
 
 我认为原文中的押韵，不可避免地有时候会有刻意押韵的地方，也就是故意让内容往形式上去凑。比如
 
@@ -141,7 +114,7 @@ $$
 
 这个形式，这一点在译文中也有体现。尽管多了原文中没有的感叹「哦」字，但不是很重要，关键是忠实原文地体现了作者想传递的风格。当然如果中文更好一点能把这个「哦」字去掉是最好的了。
 
-#### 如何传递相同的信息量
+### 如何传递相同的信息量
 
 译文中三处标有$$^*$$的地方，事实上我都用脚注[^1]的方式写明原文具体是什么。第一段的前两句，意义是想说曾经发生过一次看了很多场电影的经历。从后文来看，具体看了什么并不重要，因为后面没有再根据看了什么来展开。尽管我相信原文不是瞎编地随便找了两个电影，而是他们真的看的至少这两个电影，但我还是用 [GEB](/2017/01/10/ceci-nest-pas-une-pipe) 中译版中所采取的「移译」的方式[^2]，选了两个名气可相比较的中文电影。
 
