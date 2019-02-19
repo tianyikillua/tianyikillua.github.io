@@ -9,7 +9,7 @@ title_separator          : "-"
 name                     : "Tianyi Li"
 description              : "谈论数学、物理、科幻、动漫、政治、人生及其他的博客"
 url                      : "https://www.litianyi.me"
-words_per_minute         : 30
+words_per_minute         : 20
 comments:
   provider               : "disqus"
   disqus:
