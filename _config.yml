@@ -23,6 +23,11 @@ algolia:
   search_only_api_key    : 01c79c59b07558a5bba71b1347ead4d9
   powered_by             : true
 
+# Social Sharing
+social:
+  links:
+    - "https://www.linkedin.com/in/tianyikillua"
+
 # Analytics
 analytics:
   provider               : "google-universal"
@@ -114,7 +119,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: false
+      share: true
       related: true
       classes: wide
   # _pages
