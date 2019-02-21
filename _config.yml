@@ -1,6 +1,6 @@
 # Theme Settings
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air"
+minimal_mistakes_skin    : "default"
 
 # Site Settings
 locale                   : "en-US"
@@ -130,3 +130,5 @@ defaults:
       layout: single
       author_profile: true
       classes: wide
+      comments: true
+      share: true

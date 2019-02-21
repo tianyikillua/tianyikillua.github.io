@@ -4,6 +4,7 @@ permalink: /sejour-etranger-france/
 toc: true
 toc_sticky: true
 last_modified_at: 2019-02-21
+classes:
 ---
 
 这里整合一些关于法国外国人居留问题的问答，欢迎发邮件（见[关于我](/about/)）进一步问询。
