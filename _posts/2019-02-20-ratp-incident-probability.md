@@ -7,16 +7,18 @@ tags:
   - 地铁
   - 统计
   - Python
-toc: true
 header:
-  overlay_image: /assets/images/2019/02/ratp.jpg
+  image: /assets/images/2019/02/ratp.jpg
   caption: © [http://transportparis.canalblog.com](http://transportparis.canalblog.com)
-  actions:
-    - label: "Complete analysis report in English and source code"
-      url: "https://github.com/tianyikillua/ratp-metro-incident"
-    - label: "Version française de cet article"
-      url: "https://www.linkedin.com/pulse/pourquoi-mon-m%C3%A9tro-est-toujours-perturb%C3%A9-quelques-r%C3%A9ponses-tianyi-li/"
 ---
+
+**English version** Complete analysis report in English and source code can be directly found on [Github](https://github.com/tianyikillua/ratp-metro-incident).
+{: .notice--info}
+
+**Version française** Une version française de cet article est disponible sur [LinkedIn](https://www.linkedin.com/pulse/pourquoi-mon-m%C3%A9tro-est-toujours-perturb%C3%A9-quelques-r%C3%A9ponses-tianyi-li).
+{: .notice--info}
+
+为什么地铁 1 号线又出问题了？这篇博文尝试用统计的观点来分析下巴黎地铁系统每天都会发生的这些运营事故。
 
 通过分析巴黎地铁运营公司 RATP 的官方推特（比如 1 号线账户是 [@Ligne1_RATP](https://twitter.com/Ligne1_RATP)），我建立了一个统计模型尝试回答如下问题
 
