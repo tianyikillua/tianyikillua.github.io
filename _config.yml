@@ -41,6 +41,9 @@ author:
   bio              : "旅居法国的力学博士"
   location         : "Paris"
   links:
+    - label: "CV"
+      icon: "fas fa-fw fa-user-circle"
+      url: "https://github.com/tianyikillua/cv/blob/master/cv.pdf"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tianyikillua"
