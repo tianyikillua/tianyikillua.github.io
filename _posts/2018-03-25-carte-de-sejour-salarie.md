@@ -12,7 +12,7 @@ header:
 
 - 法国外国人法 [CESEDA](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158)
 - 劳工法 [Code du travail](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006072050)
-- 2016 年 11 月 2 日关于实施外国人法的通报 [Circulaire du 2 novembre 2016 : Application de la loi relative au droit des étrangers en France](https://www.dropbox.com/s/4kavob43lp4ev8r/circ-2016-11-02.pdf)
+- 2016 年 11 月 2 日关于实施外国人法的通报 [Circulaire du 2 novembre 2016 : Application de la loi relative au droit des étrangers en France](https://drive.google.com/file/d/1QjFkp6pOEC0UQVdekmDx2Hs1Bv1DrYmU/view?usp=sharing)
 
 这里考虑的一些普遍的情况是
 
