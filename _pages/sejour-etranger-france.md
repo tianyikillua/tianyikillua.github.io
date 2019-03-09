@@ -3,7 +3,7 @@ title: 法国外国人居留 FAQ
 permalink: /sejour-etranger-france/
 toc: true
 toc_sticky: true
-last_modified_at: 2019-02-21
+last_modified_at: 2019-03-09
 classes: default
 ---
 
@@ -17,11 +17,11 @@ classes: default
 
 - **外国人在法国居留主要由哪些法律规定？**
 
-  关于外国人居留的法律大多数都在[外国人入境与居留和庇护权利之法典 Code de l'entrée et du séjour des étrangers et du droit d'asile](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158) 中。这个法典会不定期更新，最近一次大的更新是 2019 年 3 月 1 日，因为 Macron / Collomb 的 [2018 年 9 月份通过的外国人法典修订](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000037381808&categorieLien=id)完全开始生效。
+  关于外国人居留的法律大多数都在[外国人入境与居留和庇护权利之法典 Code de l'entrée et du séjour des étrangers et du droit d'asile](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158) 中。这个法典会不定期更新，最近一次大的更新是 2019 年 3 月 1 日，Macron / Collomb 的 [2018 年 9 月份通过的外国人法典修订](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000037381808&categorieLien=id)完全开始生效。
 
   除此之外，一些关于外国人在法工作的规定也在[劳工法典 Code du travail](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006072050) 中有所涉及。
 
-  最后，还有很多零散的所谓通报 circulaire，可以看作是行政规定。目前最重要的（比如关于「人才护照」passeport-talent 居留的一些规定）是 [2016 年 11 月 2 日关于实施外国人法实施的通报 Circulaire du 2 novembre 2016 : Application de la loi relative au droit des étrangers en France](https://www.gisti.org/IMG/pdf/circ_2016-11-2_norintv1631686j.pdf)。2019 年 3 月 1 日也应该会发表新的法律通报，宣布 Macron / Collomb 的新外国人法典修订的一些实际操作程序。
+  最后，还有很多零散的所谓通报 circulaire，可以看作是行政规定。目前最重要的（比如关于「人才护照」passeport-talent 居留的一些规定）是 [2016 年 11 月 2 日关于实施外国人法实施的通报 Circulaire du 2 novembre 2016 : Application de la loi relative au droit des étrangers en France](https://www.gisti.org/IMG/pdf/circ_2016-11-2_norintv1631686j.pdf)。Macron / Collomb 外国人法典修订的一些实际操作程序则在 [2019 年 2 月 28 日的通报中](http://circulaires.legifrance.gouv.fr/pdf/2019/03/cir_44431.pdf)。
 
   其他通报可以在 [Gisti](https://www.gisti.org/spip.php?rubrique110) 网站上找到。
 
@@ -37,7 +37,7 @@ classes: default
 
 - **如果警察局没有按照法律进行操作什么办？**
 
-   等会再写。
+   存在各个警察局具体操作方式不同，有些警察局比较怀旧喜欢用老办法，有些地方则与时俱进。一些网友和我反馈说他们换了警察局之后（比如巴黎的警察局）就好办了很多（比如由于失业理由申请续长居），当然还是得看具体情况。
 ## 居留一般信息
 
 - **哪些证件可以证明我在法国的合法居留身份？** 
