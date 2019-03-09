@@ -6,6 +6,7 @@ tags:
   - 法律
 header:
   image: /assets/images/2018/03/prefecture-93.jpg
+last_modified_at: 2019-03-08
 ---
 
 这篇文章稍微介绍下现阶段（至少 2018 年）法国外国人法 Code de l'entrée et du séjour des étrangers et du droit d'asile 对于公司职员 salarié 居留的规定。相对于 2016 年的[这篇文章](/2016/11/23/for-laffi)和 2017 年的[这篇](/2017/05/01/passeport-talent)文章，这里要少了些个人经历色彩，仅供信息参考。由于特例很多，这里只讲一下最常见的情况。如果想详细研究可以参考了下面链接
@@ -18,7 +19,7 @@ header:
 
 1. 你现在持有 Carte de séjour *étudiant*，硕士学业结束找工作；
 2. 你现在持有 Carte de séjour *Passeport-talent chercheur*（也就是以前的 *Scientifique-chercheur* ），研究合同（比如博士）结束想找私企的工作；
-3. 你没有牛到可以拿[欧盟蓝卡](https://zh.wikipedia.org/wiki/%E6%AC%A7%E7%9B%9F%E8%93%9D%E5%8D%A1) *Passeport-talent carte bleue européenne*（3 年高等教育或 5 年工作经历，加上每年 50k 左右以上工资）。
+3. 你没有牛到可以拿[欧盟蓝卡](https://zh.wikipedia.org/wiki/%E6%AC%A7%E7%9B%9F%E8%93%9D%E5%8D%A1) *Passeport-talent carte bleue européenne*（3 年高等教育或 5 年工作经历，加上每年 50k 左右以上工资）。当然如果你满足条件那么拿到的卡和 Passeport-talent salarié L. 313-20 (1°) 没有很大区别。
 
 下面这个表格稍微比较了 3 个主要的职员居留卡，加上研究人员的居留卡。
 
