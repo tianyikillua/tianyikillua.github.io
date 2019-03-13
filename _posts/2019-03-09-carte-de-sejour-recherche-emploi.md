@@ -4,6 +4,7 @@ tags:
   - 法国
   - Carte de séjour
   - 法律
+last_modified_at: 2019-03-13
 ---
 
 在之前关于[法国外国人职员居留的博文](/2018/03/25/carte-de-sejour-salarie)中提到了关于硕士学生的 APS 的改革已经于 2019 年 3 月 1 日起实施，相关的在外国人法典和劳工法的法令（circulaire 在[这里](https://drive.google.com/file/d/1K8KZQ7NeYMW1rq75pcaD2zQAFWfDi998)，尽管没什么信息）也公布出来，下面就来比较一下改革前后的区别。
@@ -15,7 +16,7 @@ tags:
 | 工作许可         | 和学生居留一样，最多一年 60% 工作期限                        | 可以从事所有工作（职员，或者创业）；申请期间凭借 Récépissé 也可以 |
 | Pôle emploi 注册 | 不可以                                                       | 可以（当然要拿失业金的话你得工作过）                         |
 | 后续可申请居留   | *Salarié*, *travailleur temporaire*, *entrepreneur*, *passeport-talent* | 一样                                                         |
-| 其他             |                                                              | 如果拿到硕士以上文凭之后离开法国，那么 4 年内可以回法国申请这个居留（当然现在不知道签证怎么办） |
+| 其他             |                                                              | 如果拿到硕士以上文凭之后离开法国，那么 4 年内可以回法国申请这个居留（以一个 1 年期的 VLS-TS 等效居留的长期签证的形式） |
 
 ## Chercheur 居留成最大赢家
 
