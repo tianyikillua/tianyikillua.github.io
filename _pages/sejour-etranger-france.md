@@ -21,7 +21,7 @@ classes: default
 
   除此之外，一些关于外国人在法工作的规定也在[劳工法典 Code du travail](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006072050) 中有所涉及。
 
-  最后，还有很多零散的所谓通报 circulaire，可以看作是行政规定。目前最重要的（比如关于「人才护照」passeport-talent 居留的一些规定）是 [2016 年 11 月 2 日关于实施外国人法实施的通报 Circulaire du 2 novembre 2016 : Application de la loi relative au droit des étrangers en France](https://www.gisti.org/IMG/pdf/circ_2016-11-2_norintv1631686j.pdf)。Macron / Collomb 外国人法典修订的一些实际操作程序则在 [2019 年 2 月 28 日的通报中](http://circulaires.legifrance.gouv.fr/pdf/2019/03/cir_44431.pdf)。
+  最后，还有很多零散的所谓通报 circulaire，可以看作是行政规定。目前最重要的（比如关于「人才护照」passeport-talent 居留的一些规定）是 [2016 年 11 月 2 日关于实施外国人法实施的通报 Circulaire du 2 novembre 2016 : Application de la loi relative au droit des étrangers en France](https://www.gisti.org/IMG/pdf/circ_2016-11-2_norintv1631686j.pdf)。Macron / Collomb 外国人法典修订的一些实际操作程序则在 [2019 年 2 月 28 日的通报](http://circulaires.legifrance.gouv.fr/pdf/2019/03/cir_44431.pdf)中。
 
   其他通报可以在 [Gisti](https://www.gisti.org/spip.php?rubrique110) 网站上找到。
 
