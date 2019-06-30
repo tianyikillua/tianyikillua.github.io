@@ -91,3 +91,12 @@ classes: default
 
   如果你有一张多年长居卡 carte de séjour pluriannuelle，那么一旦你满足申请条件，不管你现在的长居卡有没有到期，都可以去警察局申请。
 
+## 欧盟
+
+- **我在欧盟国家居住，有当地的 carte de sejour permenant de memebre de la famille d'un citoyen de l'Union，可以在法国居住工作吗？**
+
+  如果你有当地给你的 carte de résident de longue durée - UE，也就是说在当地工作满五年然后申请得到的卡，那么可以来法国申请居留（抵达后 3 个月内），然后按一般程序还是要办理法国的工作许可，参见[条款](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000032186217&cidTexte=LEGITEXT000006070158)。
+
+  但是你的卡应该不算是我上面说的那张卡（尽管你当时可能可以申请，但你现在这张卡应该算是欧盟居民的配偶居留卡），那么就不能直接来法国申请居留。得当作外国人重新申请法国签证，当然是工作签证。然后再过来。
+
+  当然，如果你的配偶也来法国的话，那么你可以一起跟着过来，然后过来申请 carte de séjour de membre de la famille d'un citoyen de l'Union，可以直接工作，不需要另外的工作许可。
