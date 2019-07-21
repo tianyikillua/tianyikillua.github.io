@@ -89,7 +89,9 @@ classes: default
 
   如果你有一张短期长居卡 carte de séjour temporaire，那么是的，你必须等你长居卡快过期了（2 个月比如说），然后符合申请条件，才能去警察局申请。这时，你申请十年长居的要求等同于你续你现在的短期长居卡，也就是说如果他们不给你十年长居，就按照你续你短期长居卡的情况来处理。
 
-  如果你有一张多年长居卡 carte de séjour pluriannuelle，那么一旦你满足申请条件，不管你现在的长居卡有没有到期，都可以去警察局申请。
+  如果你有一张多年长居卡 carte de séjour pluriannuelle（包括 passeport-talent），那么一旦你满足申请条件，不管你现在的长居卡有没有到期，都可以去警察局申请。
+  
+  [法律条款](https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=32335BB8759347D8F724B050F85341F7.tplgfr26s_2?idArticle=LEGIARTI000033332680&cidTexte=LEGITEXT000006070158)
 
 ## 欧盟
 
