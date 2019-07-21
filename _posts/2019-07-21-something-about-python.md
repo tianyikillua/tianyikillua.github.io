@@ -4,7 +4,7 @@ tags:
   - Python
 ---
 
-最近在 Github 上一直关注的一个大神分享了 Python 库项目的模版 [pyfootbar](https://github.com/nschloe/pyfoobar)，学习了很多软件工程里面的方式和 Python 库打包，上传到 [PyPI](https://pypi.org) 上的方法，这里稍微分享一下。
+最近在 Github 上一直关注的一个大神分享了 Python 库项目的模版 [pyfoobar](https://github.com/nschloe/pyfoobar)，学习了很多软件工程里面的方式和 Python 库打包，上传到 [PyPI](https://pypi.org) 上的方法，这里稍微分享一下。
 
 官方的 Packaging 指导在[这里](https://packaging.python.org/tutorials/packaging-projects)，写得也很实用。
 
@@ -18,7 +18,7 @@ pip install numpy
 ```
 import numpy as np
 ```
-的方式导入。当然如果库名称是两个甚至多个（还是算了吧）单词和合并，那么要么库名称和导入名称都用下划线 `_` 分割（因为 Python 导入名称不可以用 `-` 分割），比如 `beautiful_library`；要么两个名称不一致，一个有名的例子就是机器学习库 `scikit-learn`，其库名称就是这个，通过 `pip install scikit-learn` 下载。而其导入名称为 `sklearn`，需要告知使用者。
+的方式导入。当然如果库名称是两个甚至多个（还是算了吧）单词的合并，那么要么库名称和导入名称都用下划线 `_` 分割（因为 Python 导入名称不可以用 `-` 分割），比如 `beautiful_library`；要么两个名称不一致，一个有名的例子就是机器学习库 `scikit-learn`，其库名称就是这个，通过 `pip install scikit-learn` 下载。而其导入名称为 `sklearn`，需要告知使用者。
 
 库名称就在最关键的 `setup.py` 中通过 `setuptools` 库的 `setup` 函数标明。通过这个文件使用者可以通过
 ```
@@ -32,7 +32,7 @@ pip install [-e] .
 
 ### 关于 `setup.py`
 
-下面就来看看 [pyfootbar](https://github.com/nschloe/pyfoobar) 分享的 `setup.py`。
+下面就来看看 [pyfoobar](https://github.com/nschloe/pyfoobar) 分享的 `setup.py`。
 ``` python
 setup(
     name="pyfoobar",
@@ -111,11 +111,13 @@ pyfoobar.__version__
 
 除了 `__init__.py`，其他类似的文件还有比如 `__main__.py`。这个文件将会在你 `python3 pyfoobar` 的时候运行，即类似这个库的主程序，适合一些 GUI 库。
 
+之前说到 `setup.py` 中的 `find_packages` 函数，事实上它就会根据一些[算法](https://setuptools.readthedocs.io/en/latest/setuptools.html#using-find-packages)包装你库中的源文件，其中一个很关键的判别方法就是看这个文件夹是否含有 `__init__.py` 文件。
+
 ### 关于发布你的 Python 库到 PyPI 上
 
 现在通用和提倡安装 Python 库的方式就是通过 `pip`，默认从 [Python Package Index](https://pypi.org) (PyPI) 上寻找、下载之后安装你所需要的库。
 
-要将你的库上传上 PyPI 上，使得其他人可以通过 `pip install` 的方式很方便地获得你写的库，需要先对你的库进行打包，大致就是下面这两个命令，参考 [pyfootbar](https://github.com/nschloe/pyfoobar) 分享的 `Makefile`[^1]
+要将你的库上传上 PyPI 上，使得其他人可以通过 `pip install` 的方式很方便地获得你写的库，需要先对你的库进行打包，大致就是下面这两个命令，参考 [pyfoobar](https://github.com/nschloe/pyfoobar) 分享的 `Makefile`[^1]
 ```
 python3 setup.py sdist
 python3 setup.py bdist_wheel
