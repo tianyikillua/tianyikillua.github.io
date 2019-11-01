@@ -8,7 +8,7 @@ tags:
 
 官方的 Packaging 指导在[这里](https://packaging.python.org/tutorials/packaging-projects)，写得也很实用。
 
-### 关于库文件结构
+## 关于库文件结构
 
 命名的话当然最好库名称（即从 PyPI 上下载的名称）和 `import` 名称一模一样，比如数值线性代数库 `numpy` 可以通过
 ```
@@ -30,7 +30,7 @@ pip install [-e] .
 ```
 的方式编译/安装这个 Python 库。下面就来看看这个文件。
 
-### 关于 `setup.py`
+## 关于 `setup.py`
 
 下面就来看看 [pyfoobar](https://github.com/nschloe/pyfoobar) 分享的 `setup.py`。
 ``` python
@@ -83,7 +83,7 @@ MAJOR.MINOR.PATCH
 
 可以看到这个模版中默认一开始的版本是 `0.0.1`。由于一开始 API 和功能增减特别快，我个人的方式是一开始不管修改有多大，每次就添加 `PATCH` 的数字。从 `0.1.0` 开始，按照上面的规则。
 
-### 导入文件夹
+## 导入文件夹
 
 在这个例子中，导入文件夹名称和库名称一致，都为 `pyfoobar`。在这个文件夹下有个关键的 `__init__.py` 文件，使得这个文件夹就是一个库，可以通过 `import pyfoobar` 的方式导入。
 ``` python
@@ -113,7 +113,7 @@ pyfoobar.__version__
 
 之前说到 `setup.py` 中的 `find_packages` 函数，事实上它就会根据一些[算法](https://setuptools.readthedocs.io/en/latest/setuptools.html#using-find-packages)包装你库中的源文件，其中一个很关键的判别方法就是看这个文件夹是否含有 `__init__.py` 文件。
 
-### 关于发布你的 Python 库到 PyPI 上
+## 关于发布你的 Python 库到 PyPI 上
 
 现在通用和提倡安装 Python 库的方式就是通过 `pip`，默认从 [Python Package Index](https://pypi.org) (PyPI) 上寻找、下载之后安装你所需要的库。
 
@@ -131,7 +131,7 @@ python3 setup.py bdist_wheel
 
 在实际操作上，可以使用官方提供的 [quay.io/pypa/manylinux2010_x86_64](https://github.com/pypa/manylinux) Docker images。在这个 container 之下对你的库进行包装，保证编译好的库的通用性，可以看我的一个[例子](https://github.com/tianyikillua/medcoupling/blob/master/.travis.yml)，和 travis 结合，让服务器自动帮我编译。
 
-### 最终推荐一个 Makefile 的替代
+## 最终推荐一个 Makefile 的替代
 
 `Makefile` 虽然比较通用（Windows 下用起来还是比较麻烦），但是并不非常 pythonic，所以这里推荐下 [invoke](https://github.com/pyinvoke/invoke)。通过一个 `tasks.py` 文件，把一些可以自动化的命令用 Python 语言进行描述。比如上传新的库版本，先在 `__about__.py` 中修改，然后用下面的定义
 ``` python
