@@ -3,6 +3,7 @@ title: Generic mesh readers under ParaView via the new Python interface
 tags:
   - ParaView
   - Python
+words_per_minute: 150
 ---
 Recently I discoved the Python `VTKPythonAlgorithmBase` interface introduced in the [ParaView 5.6 version](https://blog.kitware.com/paraview-5-6-0-release-notes/) for defining user plugins with pure Python files. These plugins can then be loaded through *Tools / Manage Plugins / Load New* under ParaView and can be served as custom sources, readers, writers and filters.
 
