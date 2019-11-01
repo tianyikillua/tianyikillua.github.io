@@ -13,7 +13,7 @@ Previously before 5.6 only plugins defined by a XML file (or compiled library fi
 
 In this post, I will illustrate the development of such Python plugins via the example of a generic mesh format reader, with the help of [meshio](https://github.com/nschloe/meshio). The code source of this plugin is available on [Github](https://github.com/tianyikillua/paraview-meshio-reader).
 
-### [meshio](https://github.com/nschloe/meshio)
+## [meshio](https://github.com/nschloe/meshio)
 
 [meshio](https://github.com/nschloe/meshio) is a Python library that reads and writes various frequently-used mesh formats: XDMF, VTK, gmsh, Abaqus...Personnally since 2018 I'm actively involved in this project especially for the MED format. The finite element result produced by [code_aster](https://www.code-aster.org/spip.php?rubrique1) is a MED file and in general requires the rather fatty [salome platform](https://www.salome-platform.org/) for visualization and post-processing. With the MED interface of meshio, these results files can now be converted to a more generic format readable directly by ParaView, like XDMF or VTU. Directly Python processing is also possible without the use of salome environment.
 
@@ -63,7 +63,7 @@ mesh.cell_data = {
 ```
 In this case, a 3d displacement is defined on each triangular and quadrilateral cell.
 
-### `VTKPythonAlgorithmBase` interface for defining ParaView plugins
+## `VTKPythonAlgorithmBase` interface for defining ParaView plugins
 
 For a more comprehensive introduction, interested readers can consult section 12.4 of the [ParaView Guide](https://www.paraview.org/paraview-guide/) and the [PythonAlgorithmExamples.py](https://gitlab.kitware.com/paraview/paraview/blob/master/Examples/Plugins/PythonAlgorithm/PythonAlgorithmExamples.py) file provided by ParaView.
 
@@ -95,7 +95,7 @@ By doing so, the plugin will be registered as a *reader* and when you open files
 
 <img src="/assets/images/2019/10/paraview_new_inputs.png" width="795px" />
 
-#### Data generation
+### Data generation
 
 The mesh reading and output to ParaView pipeline is performed in the `RequestData` method of `VTKPythonAlgorithmBase`. In my case, it can be summarized as follows
 ``` python
@@ -104,12 +104,12 @@ from vtkmodules.vtkCommonDataModel import vtkUnstructuredGrid
 def RequestData(self, request, inInfo, outInfo):
     # Use meshio to read the mesh
     mesh = meshio.read(self._filename, self._file_format)
-    
+
     # Produce ParaView output from mesh
     output = dsa.WrapDataObject(vtkUnstructuredGrid.GetData(outInfo))
     output.SetPoints(points)  # point coordinates
     output.SetCells(cell_types, cell_offsets, cell_conn)  # cell connectivities
-    
+
     output.PointData.append(array, name)  # point data
     output.CellData.append(array, name)  # cell data
     output.FieldData.append(array, name)  # field data
@@ -120,7 +120,7 @@ output = dsa.WrapDataObject(vtkUnstructuredGrid.GetData(outInfo))
 ```
 The numpy-friendly object `output` can be used to construct the mesh for output. Numpy arrays can be directly used when defining node coordinates via `SetPoints`, cell connectivities via `SetCells`, etc.
 
-#### Additional GUI
+### Additional GUI
 
 Some GUI elements can be added to the plugin to provide additional parameters to the plugin. These parameters can be continuous (integers, floats) or discrete in nature (a list of choices). In this example, as suggested by one of the Github user, I added a file format (string) selector to for users to explicitly indicate the mesh format of the input file. It can be defined as additional methods inside the class
 ``` python
@@ -142,6 +142,6 @@ def SetFileFormat(self, file_format):
 ```
 In this case, the GUI (string list) must be defined through raw XML format. In other cases (floats, integers...), simple decorators can be used, see the [documentation](https://kitware.github.io/paraview-docs/latest/python/paraview.util.vtkAlgorithm.html).
 
-### Conclusions
+## Conclusions
 
 The Python `VTKPythonAlgorithmBase` interface provides a powerful and easy-to-maintain approach of defining ParaView plugins. Since it is pure Python, additional technical Python libraries can be directly used to process the data. It can also be easily distributed to other users, since only one source file is involved.
