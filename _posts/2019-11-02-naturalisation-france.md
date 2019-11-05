@@ -60,7 +60,7 @@ tags:
 
 下图列举了 2019 年（到 10 月处）归化数量排在前 10 的地区，可以看到巴黎 75 及大巴黎各省（92、93、94、78、95、91、77）就占据了 8 个位置，而巴黎更是以一倍的差距远远领先第二名的上塞纳省 92。
 
-<img src="/assets/images/2019/11/nombre_naturalisation.png" width="600px" />
+<img src="/assets/images/2019/11/nombre_departement.png" width="600px" />
 
 ### 归化的大多数都是青壮年
 
