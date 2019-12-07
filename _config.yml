@@ -122,7 +122,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: false
+      share: true
       related: true
       classes: wide
   # _pages
