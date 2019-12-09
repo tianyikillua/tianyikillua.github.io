@@ -5,6 +5,9 @@ tags:
   - Python
 words_per_minute: 150
 ---
+**中文简介** 这篇博文介绍了如何用 Python 库 [meshio](https://github.com/nschloe/meshio) 扩充 ParaView 可读取网格的格式。在 ParaView 5.7 版本下（或以前），存在一些 ParaView 本身不能读取的网格格式，比如 Abaqus (`.inp`), GMSH (`.msh`) 或者 MED (`.med`)。使用 ParaView 5.6 版本引进的新插件 Python 开发环境 `VTKPythonAlgorithmBase`，我最近开发了一个连接 meshio 与 ParaView 的插件，发布在 [Github](https://github.com/tianyikillua/paraview-meshio-reader) 上。
+{: .notice--info}
+
 Recently I discoved the Python `VTKPythonAlgorithmBase` interface introduced in the [ParaView 5.6 version](https://blog.kitware.com/paraview-5-6-0-release-notes/) for defining user plugins with pure Python files. These plugins can then be loaded through *Tools / Manage Plugins / Load New* under ParaView and can be served as custom sources, readers, writers and filters.
 
 <img src="/assets/images/2019/10/paraview_plugins.png" width="912px" />
