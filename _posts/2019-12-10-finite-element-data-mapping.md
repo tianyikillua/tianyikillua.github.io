@@ -11,7 +11,7 @@ For finite element simulations you may need to transfer the result field (displa
 - when multiphysics are *chained*, in which case the latter simulation is often called an *integrative* one (*i.e.* that takes into account previous results). This can happen for example for injection-molded fiber-reinforced plastic parts (during my time in the [Promold](https://www.linkedin.com/in/tianyikillua/) company), when the fiber orientations (a symmetric tensor defined at nodes) computed by injection molding software (like Autodesk Moldflow or Moldex3D) are transferred to the structural mesh for mechanical simulations. The transferred fiber orientations are then used to compute the anisotropic and heterogeneous mechanical properties of the plastic part. The figure below illustrates an example of such process, where the source mesh (injection molding) is composed of tetrahedral elements and include the additional gate and runners. The target structural mesh, however, is comprised of hexahedral elements and are slightly coarser than the source mesh.
 - when remeshing occurred, for adaptive methods or in case of discrete crack propagation.
 
-<img src="/assets/images/2019/12/mapping.png" width="800px" />
+<img src="/assets/images/2019/12/mapping.png" width="800px" />{: .align-center}
 
 The field to be transferred can be a scalar, a vector or a tensor, and are discretized using finite elements. It can be defined[^1] at the nodes of the source mesh (like $$P_1$$ or $$P_2$$ fields) or in the cells ($$P_0$$ or on Gauss points). Depending on the physics or numerical schemes used, the values of this field can be mapped to the nodes, or into the cells of the target mesh (or elsewhere if you want). This process of transferring finite element data between non-matching meshes is often called *mapping*, *projection* or *interpolation*. The objective of this post is to present a newly developed software interface to this problem using only open-source solutions: [MEDCoupling](https://docs.salome-platform.org/latest/dev/MEDCoupling/developer/index.html) and [ParaView](https://www.paraview.org/).
 
@@ -53,9 +53,10 @@ For the first issue, based on MEDCoupling I developed a new Python package [pyma
 ## New ParaView plugin developed using its new Python interface `VTKPythonAlgorithmBase`
 
 Using this new plugin, mapping can now be easily performed within the ParaView environment, as illustrated by the following video.
-<video width="800" controls>
+<video width="800px" controls>
   <source src="/assets/videos/2019/12/mapping.mp4" type="video/mp4">
 </video>
+{: .align-center}
 
 As for my [previous blog post](/2019/10/27/paraview-python-plugin) which bridges [meshio](https://github.com/nschloe/meshio) and ParaView, this plugin is also developed using the new Python interface `VTKPythonAlgorithmBase` available since the ParaView 5.6 version. Essentially, the plugin carries out the following operations.
 - Convert the source and target meshes (VTK mesh object, actually) already loaded by ParaView to the `MEDCouplingUMesh` objects for MEDCoupling
