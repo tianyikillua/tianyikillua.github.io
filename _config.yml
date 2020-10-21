@@ -30,9 +30,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag"
-  google:
-    tracking_id          : "G-XB93772YGE"
+  provider               : "custom"
 
 # Site Author
 author:
