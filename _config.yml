@@ -32,7 +32,7 @@ social:
 analytics:
   provider               : "google-gtag"
   google:
-    tracking_id          : "UA-16692644-8"
+    tracking_id          : "G-XB93772YGE"
 
 # Site Author
 author:
