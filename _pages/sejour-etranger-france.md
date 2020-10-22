@@ -55,7 +55,7 @@ classes: default
 
   **居留卡方面**，主要分为三类：短期长居卡 carte de séjour temporaire，多年长居卡 carte de séjour pluriannuelle 和 十年长居卡 carte de résident (de longue durée-UE)。
 
-  短期长居卡一般为 1 年，一个普遍的特殊情况是 CDD 职工，他们的长居卡是 carte de séjour "travailleur temporaire"。这个卡第一次发是 1 年，续的时候按照（剩下的）合同期限，最长为 4 年。详见我的博文 [法国外国人职员居留规定](2018/03/25/carte-de-sejour-salarie)。
+  短期长居卡一般为 1 年，一个普遍的特殊情况是 CDD 职工，他们的长居卡是 carte de séjour "travailleur temporaire"。这个卡第一次发是 1 年，续的时候按照（剩下的）合同期限，最长为 4 年。详见我的博文 [法国外国人职员居留规定](/2018/03/25/carte-de-sejour-salarie)。
 
   多年长居卡一般为 4 年（比如 CDI 职工）。学生的话根据学制不同有效期也不同，其他一些情况（比如家庭团聚 vie privée et familialle）期限可能不到 4 年（比如 2 年）。「人才护照」也属于一种特殊的多年长居卡，特殊在它可以第一次就给你，而其他多年长居卡必须走 1 + X 的模式，即第一年还是一张短期长居卡。
 
