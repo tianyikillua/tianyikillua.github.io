@@ -39,18 +39,12 @@ author:
   bio              : "旅居法国的力学博士"
   location         : "Paris"
   links:
-    - label: "CV"
-      icon: "fas fa-fw fa-user-circle"
-      url: "https://github.com/tianyikillua/cv/blob/master/cv.pdf"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tianyikillua"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/tianyikillua"
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      url: "http://bitbucket.org/litianyi"
 
 # Site Footer
 footer:
@@ -61,9 +55,6 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/tianyikillua"
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      url: "http://bitbucket.org/litianyi"
 
 # Reading Files
 include:
