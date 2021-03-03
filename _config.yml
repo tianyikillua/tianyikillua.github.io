@@ -3,7 +3,7 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default"
 
 # Site Settings
-locale                   : "fr"
+locale                   : "fr-FR"
 title                    : "Fly me to the moon"
 title_separator          : "-"
 name                     : "Tianyi Li"
