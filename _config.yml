@@ -3,11 +3,11 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Tianyi"
+locale                   : "fr"
+title                    : "Fly me to the moon"
 title_separator          : "-"
 name                     : "Tianyi Li"
-description              : "谈论数学、物理、科幻、动漫、政治、人生及其他的博客"
+description              : "Blog personnel sur les sciences et la vie"
 url                      : "https://www.litianyi.me"
 words_per_minute         : 20
 comments:
@@ -24,9 +24,6 @@ algolia:
   powered_by             : true
 
 # Social Sharing
-social:
-  links:
-    - "https://www.linkedin.com/in/tianyikillua"
 
 # Analytics
 analytics:
@@ -36,25 +33,10 @@ analytics:
 author:
   name             : "Tianyi Li"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "旅居法国的力学博士"
+  bio              : "Chercheur en simulation numérique"
   location         : "Paris"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/tianyikillua"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/tianyikillua"
 
 # Site Footer
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/tianyikillua"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/tianyikillua"
 
 # Reading Files
 include:
