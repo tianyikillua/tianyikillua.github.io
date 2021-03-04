@@ -6,7 +6,7 @@ minimal_mistakes_skin    : "default"
 locale                   : "en-US"
 title                    : "Fly me to the moon"
 title_separator          : "-"
-name                     : "Tianyi Li"
+name                     : "tianyi"
 description              : "Blog personnel sur les sciences et la vie"
 url                      : "https://www.litianyi.me"
 words_per_minute         : 20
@@ -31,8 +31,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tianyi Li"
+  name             : "tianyi"
   avatar           : "/assets/images/avatar.jpg"
+  bio              : "Juste un autre PhD asexuel androgyne et bègue, curieux de tout et de rien"
   location         : "Paris"
 
 # Site Footer
