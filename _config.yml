@@ -7,7 +7,7 @@ locale                   : "en-US"
 title                    : "Fly me to the moon"
 title_separator          : "-"
 name                     : "tianyi"
-description              : "Blog personnel sur les sciences et la vie"
+description              : "Blog personnel sur tout et de rien"
 url                      : "https://www.litianyi.me"
 words_per_minute         : 20
 comments:
@@ -94,7 +94,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
       classes: wide
   # _pages
@@ -106,4 +106,4 @@ defaults:
       author_profile: true
       classes: wide
       comments: true
-      share: true
+      share: false
