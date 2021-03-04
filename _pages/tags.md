@@ -1,5 +1,5 @@
 ---
-title: 按标签
+title: Tags
 permalink: /tags/
 layout: tags
 ---

@@ -1,5 +1,5 @@
 ---
-title: 所有博文
+title: Blog
 permalink: /archive/
 layout: posts
 author_profile: true
