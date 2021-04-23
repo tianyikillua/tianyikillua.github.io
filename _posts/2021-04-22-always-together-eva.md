@@ -25,7 +25,7 @@ header:
 
 ## 一切，都源于我们自己的感知罢了
 
-<img src="/assets/images/2021/04/my-world.jpg" width="800px" />
+<img src="/assets/images/2021/04/my-world.jpg" width="600px" />
 
 “难道不是你自己想出来的吗？”
 
