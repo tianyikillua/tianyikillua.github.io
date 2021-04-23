@@ -27,20 +27,21 @@ classes: default
 
 - **如果我有疑问可以去哪里寻找信息？**
 
-   一些最常用的信息可以在 [Service-public.fr](https://www.service-public.fr/particuliers/vosdroits/N19804) 上找到。这个网站的信息由官方更新，把上面所提到的法律中最重要和最常用的一些信息用人类的语言进行提炼，并用 21 世纪的排版方式展现出来。由于本质上是一个简化版，所以一些很细节的问题可能不会提到。
+  一些最常用的信息可以在 [Service-public.fr](https://www.service-public.fr/particuliers/vosdroits/N19804) 上找到。这个网站的信息由官方更新，把上面所提到的法律中最重要和最常用的一些信息用人类的语言进行提炼，并用 21 世纪的排版方式展现出来。由于本质上是一个简化版，所以一些很细节的问题可能不会提到。
 
-   除此之外，还有法国内政部专门搞的 [ACCUEIL des ÉTRANGERS](http://accueil-etrangers.gouv.fr)。按照你现在的情况和需求会一步步提供信息，不过比上面来说更加提炼，信息不是很完整。
+  除此之外，还有法国内政部专门搞的 [ACCUEIL des ÉTRANGERS](http://accueil-etrangers.gouv.fr)。按照你现在的情况和需求会一步步提供信息，不过比上面来说更加提炼，信息不是很完整。
 
-   然后，根据你的所住地，可以去所归属的警察局 préfecture 的官方网站上查询信息。由于每个警察局的电脑技术（当然主要是钱）参差不齐，所以有好有坏。
+  然后，根据你的所住地，可以去所归属的警察局 préfecture 的官方网站上查询信息。由于每个警察局的电脑技术（当然主要是钱）参差不齐，所以有好有坏。
 
-   其他论坛什么的（比如 [Assouevam](http://assouevam.fr) 和 [Easytrangers](http://www.easytrangers.com/)）这里就不说了。
+  其他论坛什么的（比如 [Assouevam](http://assouevam.fr) 和 [Easytrangers](http://www.easytrangers.com/)）这里就不说了。
 
 - **如果警察局没有按照法律进行操作什么办？**
 
-   存在各个警察局具体操作方式不同，有些警察局比较怀旧喜欢用老办法，有些地方则与时俱进。一些网友和我反馈说他们换了警察局之后（比如巴黎的警察局）就好办了很多（比如由于失业理由申请续长居），当然还是得看具体情况。
+  存在各个警察局具体操作方式不同，有些警察局比较怀旧喜欢用老办法，有些地方则与时俱进。一些网友和我反馈说他们换了警察局之后（比如巴黎的警察局）就好办了很多（比如由于失业理由申请续长居），当然还是得看具体情况。
+
 ## 居留一般信息
 
-- **哪些证件可以证明我在法国的合法居留身份？** 
+- **哪些证件可以证明我在法国的合法居留身份？**
 
   主要存在如下几个证件：
   1. 长期居留签证 visa de long séjour (VLS)
@@ -90,7 +91,7 @@ classes: default
   如果你有一张短期长居卡 carte de séjour temporaire，那么是的，你必须等你长居卡快过期了（2 个月比如说），然后符合申请条件，才能去警察局申请。这时，你申请十年长居的要求等同于你续你现在的短期长居卡，也就是说如果他们不给你十年长居，就按照你续你短期长居卡的情况来处理。
 
   如果你有一张多年长居卡 carte de séjour pluriannuelle（包括 passeport-talent），那么一旦你满足申请条件，不管你现在的长居卡有没有到期，都可以去警察局申请。
-  
+
   [法律条款](https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=32335BB8759347D8F724B050F85341F7.tplgfr26s_2?idArticle=LEGIARTI000033332680&cidTexte=LEGITEXT000006070158)
 
 ## 欧盟
