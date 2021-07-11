@@ -9,6 +9,7 @@ title_separator          : "-"
 name                     : "tianyi"
 description              : "Blog personnel sur tout et rien"
 url                      : "https://www.litianyi.me"
+words_per_minute         : 10
 comments:
   provider               : "disqus"
   disqus:
