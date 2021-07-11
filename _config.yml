@@ -1,6 +1,6 @@
 # Theme Settings
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default"
+minimal_mistakes_skin    : "air"
 
 # Site Settings
 locale                   : "en-US"
@@ -33,7 +33,6 @@ analytics:
 author:
   name             : "tianyi"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Juste un autre PhD asexuel et bègue, curieux de tout et de rien"
   location         : "Paris"
 
 # Site Footer
