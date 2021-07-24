@@ -32,7 +32,7 @@ words_per_minute: 10
 
 省去详细的数学推理，下面给出答案。体验巴黎一共 16 条线最少需要 26 步，即需要经过 27 站。需要注意是这个不是一个唯一解，因为可以从 6 号线 Cambronne 开始，也可以从 10 号线的 	Avenue Emile Zola 开始。但是这个路线不能反过来坐，因为 7bis 上的有些路线是[单向](/2014/02/04/parismetro)的。
 
-<img src="https://interstices.info/wp-content/uploads/2020/10/metro_figure1-1024x559.jpg"/>
+<img src="/assets/images/2021/07/optimal-solution-metro.jpg" width="800px" />
 
 我稍微对这个建模不是很满意的就是，它是一个全局最优解，而没有考虑你出发的站台。假设你从 Nation 出发，那么最佳路线肯定不是上面一条，需要通过的站台肯定大于 27 站。不过数学上要解决这个“局部优化问题”很简单，只需要强行将那个站的 variable 设为必须出现。哪位感兴趣的同学可以编个程解决这个问题哈。
 
