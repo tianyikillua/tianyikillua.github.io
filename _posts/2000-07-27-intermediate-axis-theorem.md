@@ -11,12 +11,12 @@ test
 
 ddd
 
-<video autoplay loop width="100" height="317" >
+<video autoplay loop width="200" height="634" >
    <source src="/assets/images/2021/07/omega_1.mp4" type="video/mp4">
-</video>
-<video autoplay loop width="100" height="317" >
+</video>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<video autoplay loop width="200" height="634" >
    <source src="/assets/images/2021/07/omega_2.mp4" type="video/mp4">
-</video>
-<video autoplay loop width="100" height="317" >
+</video>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<video autoplay loop width="200" height="634" >
    <source src="/assets/images/2021/07/omega_3.mp4" type="video/mp4">
 </video>
