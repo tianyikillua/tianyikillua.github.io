@@ -1,6 +1,6 @@
 # Theme Settings
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air"
+minimal_mistakes_skin    : "default"
 
 # Site Settings
 locale                   : "en-US"
