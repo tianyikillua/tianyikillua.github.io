@@ -11,6 +11,6 @@ test
 
 ddd
 
-<video autoplay loop width="746" height="1248" >
+<video width="363" height="624" autoplay loop controls>
    <source src="/assets/images/2021/07/omega.mp4" type="video/mp4">
 </video>
