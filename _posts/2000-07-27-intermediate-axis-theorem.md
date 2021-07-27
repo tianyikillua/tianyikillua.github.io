@@ -5,7 +5,7 @@ tags:
 words_per_minute: 10
 ---
 
-<img src="/assets/images/2021/07/book.png" />
+<img src="/assets/images/2021/07/book.png" width="150px"/>
 
 <img src="/assets/images/2021/07/omega_1.svg" width="500px" />
 
