@@ -12,5 +12,5 @@ test
 ddd
 
 <video autoplay loop>
-   <source src="/assets/images/2021/07/omega_1.mp4" type="video/mp4" width="200px">
+   <source src="/assets/images/2021/07/omega_1.mp4" type="video/mp4" width="100">
 </video>
