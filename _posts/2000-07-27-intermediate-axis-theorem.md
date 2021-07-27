@@ -14,3 +14,9 @@ ddd
 <video autoplay loop width="100" height="317" >
    <source src="/assets/images/2021/07/omega_1.mp4" type="video/mp4">
 </video>
+<video autoplay loop width="100" height="317" >
+   <source src="/assets/images/2021/07/omega_2.mp4" type="video/mp4">
+</video>
+<video autoplay loop width="100" height="317" >
+   <source src="/assets/images/2021/07/omega_3.mp4" type="video/mp4">
+</video>
