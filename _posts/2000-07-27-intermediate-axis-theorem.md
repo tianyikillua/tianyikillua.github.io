@@ -3,6 +3,10 @@ title: 一个力学小知识
 tags:
   - 力学
 words_per_minute: 10
+header:
+  video:
+    id: l51LcwHOW7s
+    provider: youtube
 ---
 
 ## 现象
@@ -27,16 +31,41 @@ words_per_minute: 10
 
 <img src="/assets/images/2021/07/omega.gif" width="800px" />
 
-如果实在不想弄坏自己的手机或者书的话，也可以看看下面这个视频。
-
-{% include video id="l51LcwHOW7s" provider="youtube" %}
+如果实在不想弄坏自己的手机或者书的话，也可以看看[最上面那个 YouTube 视频](https://www.youtube.com/watch?v=l51LcwHOW7s)。
 
 ## 解释
+
+说解释，其实还是需要用到牛顿力学的知识和一些数学工具。研究力学问题，第一步是描述物体的运动，即运动学。一个刚体在某一瞬间的运动可以用两个三维矢量来刻画。
+
+1. 质心 $$\mathbf{x}_\mathrm{C}$$ 的速度 $$\mathbf{v}_\mathrm{C}=(v_x, v_y, v_z)$$。在材料密度均匀的情况下，一个刚体的质心、即质量中心，等于几何中心。
+2. 围绕着质心的角速度 $$\Omega=(\omega_1, \omega_2, \omega_3)$$，方向指向此刻的旋转方向，大小 magnitude 为此刻旋转的速度，单位是 rad / s。
+
+刚体上任意一点 $$\mathbf{x}$$ 的速度 $$\mathbf{v}$$ 可以由 $$\mathbf{v}_\mathrm{C}$$ 和 $$\Omega$$ 如下公式计算而得
+
+$$
+\mathbf{v}=\mathbf{v}_\mathrm{C} + \Omega\cross(\mathbf{x}-\mathbf{x}_\mathrm{C}).
+$$
+
+在没有外力的情况下，牛顿力学应用到刚体上有如下两个结论
+
+1. 刚体线动量守恒
+
+$$
+m\mathbf{a}=m\ddot{\mathbf{x}}_\mathrm{C}=\mathbf{0}.
+$$
+
+2. 刚体角动量守恒
+
+$$
+\mathbf{I}\dot{\Omega}+\Omega\cross(\mathbf{I}\Omega)=\mathbf{0}.
+$$
+
+其中 $$\mathbf{I}$$ 为表述在随着刚体一起旋转的坐标系中的惯性张量。通常这个与刚体一起旋转的坐标系就取为刚体的旋转主轴坐标系，可得到 $\mathbf{I}=\mathrm{diag}(I_1, I_2, I_3)$。
 
 <img src="/assets/images/2021/07/omega_1.svg" width="500px" />
 
 ddd
 
-[^1]: 如果你把手机摔坏的话，也别忘了拍张类似下面的照片，用来研究裂纹的动态传播。
-
 <img src="/assets/images/2021/07/broken-phone-screen.png" width="600px" />
+
+[^1]: 如果你把手机摔坏的话，也别忘了拍张类似上面的照片，用来研究裂纹的动态传播。
