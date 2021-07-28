@@ -4,9 +4,7 @@ tags:
   - 力学
 words_per_minute: 10
 header:
-  video:
-    id: l51LcwHOW7s
-    provider: youtube
+  image:  /assets/images/2021/07/omega.gif
 ---
 
 ## 现象
@@ -31,7 +29,7 @@ header:
 
 <img src="/assets/images/2021/07/omega.gif" width="800px" />
 
-如果实在不想弄坏自己的手机或者书的话，也可以看看[最上面那个 YouTube 视频](https://www.youtube.com/watch?v=l51LcwHOW7s)。
+如果实在不想弄坏自己的手机或者书的话，也可以看看[这个 YouTube 视频](https://www.youtube.com/watch?v=l51LcwHOW7s)。
 
 ## 重温刚体力学
 
