@@ -4,7 +4,7 @@ tags:
   - 力学
 words_per_minute: 10
 header:
-  image:  /assets/images/2021/07/omega.gif
+  image: /assets/images/2021/07/omega.gif
 ---
 
 ## 现象
