@@ -3,13 +3,11 @@ title: 一个力学小知识
 tags:
   - 力学
 words_per_minute: 10
-header:
-  image: /assets/images/2021/07/omega.gif
 ---
 
-## 现象
-
 这篇博文介绍一个日常生活中可以简单验证的力学小知识，叫做 [Intermediate axis theorem](https://en.wikipedia.org/wiki/Tennis_racket_theorem)。设某刚体的惯性主轴为 $$(\mathbf{e}_1, \mathbf{e}_2, \mathbf{e}_3)$$，相对应的转动惯量为 $$I_1\geq I_2\geq I_3$$。这个定理说，在没有外力矩的情况下，刚体关于第二主轴 $$\mathbf{e}_2$$ 的自转是不稳定的。
+
+## 现象
 
 这个定理其实很好用实验证明，拿出各位的手机就行了[^1]。见下图，围绕着手机的中心，可以有三种旋转方式。
 
