@@ -56,7 +56,14 @@ words_per_minute: 10
 
 终于，2008 年的 liste des métiers en tension 终于更新了，最新的列表在 [Arrêté du 1er avril 2021 relatif à la délivrance, sans opposition de la situation de l'emploi, des autorisations de travail aux étrangers non ressortissants d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'Espace économique européen ou de la Confédération suisse](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043317444) 中可以找到。
 
-一般来说，如果你想申请普通的 salarié 工签（你没有在法国的硕士文凭，或者工资条件不符合 passeport-talent 的要求），那么公司需要证明你的岗位没有在现有市场中找到合适人选。具体来说，公司需要证明他们的 offre d'emploi 在网上至少放了 3 周，而且也没有面试到适合的人。
+一般来说
+
+- 如果你不是学生（如果是的话不需要确认工作是不是 métiers en tension）
+- 目前没有 carte de séjour recherche d'emploi ou création d'entreprise（即原 APS）
+- 没有在法国的硕士文凭，或者工资条件不符合 passeport-talent 的要求
+- 想申请或转到普通的 salarié / travailleur temporaire 工签
+
+那么公司需要证明你的岗位没有在现有市场中找到合适人选。具体来说，公司需要证明他们的 offre d'emploi 在网上至少放了 3 周，而且也没有面试到适合的人。
 
 但是，如果你的岗位在这个列表中，那么公司不需要这些繁琐的证明，工作许可也可以更简单得获得。
 
