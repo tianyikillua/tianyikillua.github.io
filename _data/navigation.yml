@@ -6,7 +6,5 @@ main:
     url: /archive/
   - title: "标签"
     url: /tags/
-  - title: "法国外国人居留 FAQ"
+  - title: "法国外国人居留法律咨询"
     url: /sejour-etranger-france/
-  - title: "法国居留法律咨询"
-    url: /consultation-titre-sejour-france/
