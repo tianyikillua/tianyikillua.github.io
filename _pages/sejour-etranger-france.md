@@ -1,9 +1,9 @@
 ---
-title: "法国外国人居留 FAQ"
+title: "法国外国人居留咨询"
 permalink: /sejour-etranger-france/
 toc: true
 toc_sticky: true
-last_modified_at: 2019-03-09
+last_modified_at: 2021-08-01
 classes: default
 ---
 
@@ -17,11 +17,13 @@ classes: default
 
 具体资费和相关信息请直接联系我，邮箱是 tianyikillua (at) gmail.com。
 
-## 实用问题
+## 信息来源
 
 - **外国人在法国居留主要由哪些法律规定？**
 
   关于外国人居留的法律大多数都在[外国人入境与居留和庇护权利之法典 Code de l'entrée et du séjour des étrangers et du droit d'asile](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158) 中。这个法典会不定期更新，最近一次大的更新是 2019 年 3 月 1 日，Macron / Collomb 的 [2018 年 9 月份通过的外国人法典修订](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000037381808&categorieLien=id)完全开始生效。
+
+  需要注意的是从 2021 年 5 月 1 日起，[外国人入境与居留和庇护权利之法典 Code de l'entrée et du séjour des étrangers et du droit d'asile](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158)被重新撰写。[Ordonnance n° 2020-1733 du 16 décembre 2020 portant partie législative du code de l'entrée et du séjour des étrangers et du droit d'asile](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042754770) 重新整理了法典的各个章节和条款，不过并没有改变具体法律规定。
 
   除此之外，一些关于外国人在法工作的规定也在[劳工法典 Code du travail](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006072050) 中有所涉及。
 
@@ -72,13 +74,23 @@ classes: default
 
   假设你护照今年就过期，你是学生找到一份工作工资不高只能申请 salarié 长居（而不是 passeport-talent），那么你只能拿到一张短期长居卡。由于这张卡的有效期不能超过你护照的有效期，所以要么这张卡的期限没有 1 年，要么警察局会叫你去续你的护照。
 
-## 工作签证
+## 工作
 
 - **我现在是学生，我第一次申请工签，会给我 4 年长居卡吗？**
 
   如果你不满足「人才护照」的条件，那么你第一次申请 salarié / travailleur temporaire 只会给你一张 1 年的短期长居卡。在续这张卡的时候才会给你一张多年长居卡。
 
   如果你满足「人才护照」的条件，那么是的，<u>如果警察局按照你申请人才护照的程序走的话</u>，那么你直接可以拿到一张 4 年的长居卡。如果你知道自己符合「人才护照」，那么请就通过填写特别的「人才护照」申请表、或者写附加说明信，申请「人才护照」长居卡。如果你只是申请了一般职工长居 salarié / travailleur temporaire，那么如果警察局没有走「人才护照」程序的话，<u>然后劳工局 DIRECTTE 也没有注意的话</u>，那么如果给你了一般职员的长居卡，那么就是 1 年。存在情况是劳工局注意到你满足「人才护照」条件，按照要求不需要进行劳工局审核，然后把档案退回到警察局。这种情况下你最终当然拿到 4 年卡，但申请时间变长。
+
+- **申请失业金需要什么条件？**
+
+  根据 [Pole emploi](https://www.pole-emploi.fr/candidat/mes-droits-aux-aides-et-allocati/lessentiel-a-savoir-sur-lallocat/ai-je-droit-a-lallocation-chomag.html) 的页面，你首先需要满足针对所有人的条件，比如在过去 2 年内至少工作了 4 个月。
+
+  针对外国人，你需要持有仍然有效的允许你工作的居留卡，具体列表在[这里](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000018495676)。
+
+- **哪些 Récépissés 可以工作**
+
+  详见这个[列表](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042801330/#LEGISCTA000042806982)。
 
 ## 十年长居
 
@@ -100,7 +112,7 @@ classes: default
 
 ## 欧盟
 
-- **我在欧盟国家居住，有当地的 carte de sejour permenant de memebre de la famille d'un citoyen de l'Union，可以在法国居住工作吗？**
+- **我在欧盟国家居住，有当地的 carte de séjour permanent de membre de la famille d'un citoyen de l'Union，可以在法国居住工作吗？**
 
   如果你有当地给你的 carte de résident de longue durée - UE，也就是说在当地工作满五年然后申请得到的卡，那么可以来法国申请居留（抵达后 3 个月内），然后按一般程序还是要办理法国的工作许可，参见[条款](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000032186217&cidTexte=LEGITEXT000006070158)。
 

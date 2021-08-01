@@ -30,7 +30,7 @@ words_per_minute: 10
 
 一个数学问题通常可以有很多种具现化的描述方式。学生时代在做[桁架拓扑优化问题](2012/05/20/optimisationtopo)的时候明白，一个非线性优化问题事实上可以通过重新 formulation 的方式，转变为一个[线性规划问题](https://en.wikipedia.org/wiki/Linear_programming)。对于这个最省路线问题同样，可以证明[^3]这个问题可以用一个（整数）线性规划问题来描述。
 
-省去详细的数学推理，下面给出答案。体验巴黎一共 16 条线最少需要 26 步，即需要经过 27 站。需要注意是这个不是一个唯一解，因为可以从 6 号线 Cambronne 开始，也可以从 10 号线的 	Avenue Emile Zola 开始。但是这个路线不能反过来坐，因为 7bis 上的有些路线是[单向](/2014/02/04/parismetro)的。
+省去详细的数学推理，下面给出答案。体验巴黎一共 16 条线最少需要 26 步，即需要经过 27 站。需要注意是这个不是一个唯一解，因为可以从 6 号线 Cambronne 开始，也可以从 10 号线的 Avenue Emile Zola 开始。但是这个路线不能反过来坐，因为 7bis 上的有些路线是[单向](/2014/02/04/parismetro)的。
 
 <img src="/assets/images/2021/07/optimal-solution-metro.jpg" width="800px" />
 
