@@ -3,7 +3,7 @@ title: "2021 年法国外国人居留及工作政策新变化"
 tags:
   - 法国
   - 法律
-words_per_minute: 10
+words_per_minute: 20
 ---
 
 继续去年年初的[法国外国人居留政策新变化](/2020/01/05/changements-etrangers-france-2020)，这篇文章大致介绍下一年来和近期法国外国人居留及工作政策的一些新变化。

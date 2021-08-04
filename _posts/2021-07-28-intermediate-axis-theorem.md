@@ -2,7 +2,7 @@
 title: 一个力学小知识
 tags:
   - 力学
-words_per_minute: 10
+words_per_minute: 20
 ---
 
 这篇博文介绍一个日常生活中可以简单验证的力学小知识，叫做 [Intermediate axis theorem](https://en.wikipedia.org/wiki/Tennis_racket_theorem)。设某刚体的惯性主轴为 $$(\mathbf{e}_1, \mathbf{e}_2, \mathbf{e}_3)$$，相对应的转动惯量为 $$I_1\geq I_2\geq I_3$$。这个定理说，在没有外力矩的情况下，刚体关于第二主轴 $$\mathbf{e}_2$$ 的自转是不稳定的。
