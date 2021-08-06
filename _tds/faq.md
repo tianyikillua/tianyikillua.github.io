@@ -1,21 +1,18 @@
 ---
-title: "法国外国人居留咨询"
-permalink: /sejour-etranger-france/
+title: "法国居留 FAQ"
 toc: true
 toc_sticky: true
-last_modified_at: 2021-08-01
+last_modified_at: 2021-08-06
 classes: default
 ---
 
-这里我整合一些关于法国外国人居留问题的问答，欢迎发邮件（见[关于我](/about/)）进一步问询。
+这里我整合一些关于法国外国人居留问题的问答。
 
 我目前只对外国人（受众主要是会中文的读者）为在法国生活学习工作需要而办理的各种居留手续「感兴趣」。现在对学习和工作居留相关的程序比较熟悉，对家庭团聚还没有仔细研究过。另外，暂时对黑户变白 régularisation 和申请难民庇护等也不是很熟悉，也许哪天会突然产生兴趣。
 
 由于法国人相关的法律变化特别多，所以请注意本页面最下面显示的更新 Updated 时间。如果在论坛上查询信息也别忘记看发回帖的日期。
 
-如果[法国外国人居留 FAQ](/sejour-etranger-france) 和我的博文[法国外国人职员居留规定](/2018/03/25/carte-de-sejour-salarie)（及其下面的回复评论区）无法回答你对法国申请居留的疑问，你可以选择直接咨询我。
-
-具体资费和相关信息请直接联系我，邮箱是 tianyikillua (at) gmail.com。
+如果[法国居留法律信息与咨询](/tds)和我的博文[法国外国人职员居留规定](/2018/03/25/carte-de-sejour-salarie)（及其下面的回复评论区）无法回答你对法国申请居留的疑问，你可以选择直接咨询我，我会提供具体资费及其相关信息，邮箱是 tianyikillua (at) gmail.com。
 {: .notice--success}
 
 ## 信息来源

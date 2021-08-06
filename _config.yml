@@ -35,8 +35,17 @@ author:
   avatar           : "/assets/images/avatar.jpg"
   location         : "Paris"
   bio              : "无可救药的理想主义者；INFJ-A?"
+  links:
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/tianyikillua"
 
 # Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tianyikillua"
 
 # Reading Files
 include:
@@ -62,7 +71,7 @@ kramdown:
 
 # Outputting
 permalink: /:year/:month/:day/:title/
-paginate: 5 # amount of posts to show
+paginate: 20 # amount of posts to show
 paginate_path: /page:num/
 
 # Plugins (previously gems:)
@@ -75,12 +84,19 @@ plugins:
   - jekyll-include-cache
 
 # Archives
-category_archive:
-  type: liquid
-  path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
+
+# Collections
+collections:
+  tds:
+    output: true
+    permalink: /:collection/:path/
+
+# HTML Compression
+compress_html:
+  clippings: all
 
 # Defaults
 defaults:
@@ -89,21 +105,36 @@ defaults:
       path: ""
       type: posts
     values:
-      show_date: true
       layout: single
+      show_date: true
       author_profile: true
+      classes: wide
       read_time: true
       comments: true
-      share: false
+      share: true
       related: true
-      classes: wide
   # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
+      show_date: true
       author_profile: true
       classes: wide
       comments: true
-      share: false
+      share: true
+      related: true
+  # _tds
+  - scope:
+      path: ""
+      type: tds
+    values:
+      layout: single
+      show_date: true
+      author_profile: true
+      classes: wide
+      read_time: true
+      comments: true
+      share: true
+      related: true
