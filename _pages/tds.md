@@ -11,5 +11,5 @@ layout: collection
 
 由于法国人相关的法律变化特别多，所以请注意各个页面最下面显示的更新时间。
 
-我也提供法律咨询，请首先通过邮箱联系我 tianyikillua (at) gmail.com，我将为你提供具体资费及其相关信息。
+如果你需要相关法律咨询（学生居留，工签，换身份等），请首先通过邮箱联系我 tianyikillua (at) gmail.com，我将提供具体资费等信息。
 {: .notice--success}

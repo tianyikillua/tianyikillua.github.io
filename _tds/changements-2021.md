@@ -8,9 +8,6 @@ words_per_minute: 20
 
 继续去年年初的[法国外国人居留政策新变化](/2020/01/05/changements-etrangers-france-2020)，这篇文章大致介绍下一年来和近期法国外国人居留及工作政策的一些新变化。
 
-如果你需要相关法律咨询（学生居留，工签，换身份等），请参考[关于我](/about/)与我联系，我会提供给你具体资费信息。
-{: .notice--success}
-
 ## 外国人法典重新撰写
 
 从 2021 年 5 月 1 日起，[外国人入境与居留和庇护权利之法典 Code de l'entrée et du séjour des étrangers et du droit d'asile](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158)被重新撰写。[Ordonnance n° 2020-1733 du 16 décembre 2020 portant partie législative du code de l'entrée et du séjour des étrangers et du droit d'asile](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042754770) 重新整理了法典的各个章节和条款，不过并没有改变具体法律规定。
