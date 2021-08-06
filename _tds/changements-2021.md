@@ -1,12 +1,9 @@
 ---
 title: "2021 年法国外国人居留及工作政策新变化"
-tags:
-  - 法国
-  - 法律
 words_per_minute: 20
 ---
 
-继续去年年初的[法国外国人居留政策新变化](/2020/01/05/changements-etrangers-france-2020)，这篇文章大致介绍下一年来和近期法国外国人居留及工作政策的一些新变化。
+继续去年年初的[法国外国人居留政策新变化](/tds/changements-2020)，这篇文章大致介绍下一年来和近期法国外国人居留及工作政策的一些新变化。
 
 ## 外国人法典重新撰写
 
@@ -18,7 +15,7 @@ words_per_minute: 20
 
 ## 网上申请学生和 Passeport-talents 居留卡
 
-正如之前[法国外国人居留政策新变化](/2020/01/05/changements-etrangers-france-2020)所说，如今一些居留可由 [Administration numérique des étrangers en France](https://administration-etrangers-en-france.interieur.gouv.fr) 平台在网上申请（尽管普遍反应有很多 bug）。
+正如之前[法国外国人居留政策新变化](/tds/changements-2020)所说，如今一些居留可由 [Administration numérique des étrangers en France](https://administration-etrangers-en-france.interieur.gouv.fr) 平台在网上申请（尽管普遍反应有很多 bug）。
 
 <img src="/assets/images/2021/08/anef.png" width="600px" />
 
