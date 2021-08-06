@@ -3,13 +3,14 @@ remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 title                    : "Fly me to the moon"
 title_separator          : "-"
-name                     : "tianyi"
-description              : "Blog personnel sur tout et rien"
+subtitle                 : "一只在巴黎生活的理科小狗狗的生活"
+name                     : "Tianyi"
+description              : "一只在巴黎生活的理科小狗狗的生活"
 url                      : "https://www.litianyi.me"
-words_per_minute         : 10
+words_per_minute         : 20
 comments:
   provider               : "disqus"
   disqus:
@@ -31,7 +32,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "tianyi"
+  name             : "Tianyi"
   avatar           : "/assets/images/avatar.jpg"
   location         : "Paris"
   bio              : "无可救药的理想主义者；INFJ-A?"
@@ -119,22 +120,20 @@ defaults:
       type: pages
     values:
       layout: single
-      show_date: true
+      show_date: false
       author_profile: true
       classes: wide
       comments: true
       share: true
-      related: true
   # _tds
   - scope:
       path: ""
       type: tds
     values:
       layout: single
-      show_date: true
+      show_date: false
       author_profile: true
       classes: wide
       read_time: true
       comments: true
       share: true
-      related: true
