@@ -1,5 +1,5 @@
 ---
-title: "永别了 所有的福音战士"
+title: "永别了，所有的福音战士"
 tags:
   - 心理
   - Evangelion

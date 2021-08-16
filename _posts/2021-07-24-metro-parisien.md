@@ -6,7 +6,7 @@ tags:
   - RATP
 header:
   image: /assets/images/2021/07/nichijou.jpg
-words_per_minute: 10
+words_per_minute: 20
 ---
 这周请了年假，感觉非常充实、轻松和舒服。意识到一直以来自己超我的强大，对自己有很多要求，压抑了自己的本我，于是开始要学会怎么放纵自己。不过雅雅说，也不能就因此就否定自己的超我；好好利用它就好了。
 

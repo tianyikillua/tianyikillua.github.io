@@ -4,7 +4,7 @@ tags:
   - 心理
 header:
   image: /assets/images/2021/07/grenoble.jpg
-words_per_minute: 10
+words_per_minute: 20
 ---
 从今年一月底开始的心理咨询最近决定暂停一会儿。这并不是咨询师和我共同做出的决定，而只是我觉得已经收获很多，认为可以靠自己掌控人生的主动权。
 
