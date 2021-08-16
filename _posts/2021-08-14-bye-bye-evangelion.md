@@ -6,6 +6,9 @@ header:
   image: /assets/images/2021/08/Ube.png
 words_per_minute: 20
 gallery:
+  - url: /assets/images/2021/08/shinji.png
+    image_path: /assets/images/2021/08/shinji.png
+    title: "学会了爱自己、爱别人和被别人爱的真嗣"
   - url: /assets/images/2021/08/papa.png
     image_path: /assets/images/2021/08/papa.png
     title: "互相谅解的父与子"
