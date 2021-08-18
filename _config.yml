@@ -6,9 +6,8 @@ minimal_mistakes_skin    : "default"
 locale                   : "zh-CN"
 title                    : "Fly me to the moon"
 title_separator          : "-"
-subtitle                 : "一只在巴黎生活的理科小狗狗的生活"
 name                     : "Tianyi"
-description              : "一只在巴黎生活的理科小狗狗的生活"
+description              : "法国巴黎生活分享"
 url                      : "https://www.litianyi.me"
 words_per_minute         : 20
 comments:
@@ -35,7 +34,7 @@ author:
   name             : "Tianyi"
   avatar           : "/assets/images/avatar.jpg"
   location         : "Paris"
-  bio              : "无可救药的理想主义者；INFJ-A?"
+  bio              : "INFJ-A"
   links:
   - label: "GitHub"
     icon: "fab fa-fw fa-github"
