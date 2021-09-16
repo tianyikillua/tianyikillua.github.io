@@ -5,7 +5,7 @@ words_per_minute: 20
 
 这个页面更新下可以在 [Administration numérique des étrangers en France](https://administration-etrangers-en-france.interieur.gouv.fr) 平台上办理的外国人相关业务。
 
-<img src="/assets/images/2021/08/anef.png" width="600px" />
+<img src="/assets/images/2021/08/anef.png" width="800px" />
 
 ## 居留卡
 
@@ -24,4 +24,4 @@ words_per_minute: 20
 
 目前，一些省开放了网上申请法籍的业务，应该在实验结束后会推向全国。
 
-<img src="/assets/images/pages/naturalisation-demande-en-ligne.png" width="600px" />
+<img src="/assets/images/pages/naturalisation-demande-en-ligne.png" width="800px" />
