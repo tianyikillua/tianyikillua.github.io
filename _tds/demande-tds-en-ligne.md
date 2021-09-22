@@ -14,6 +14,9 @@ words_per_minute: 20
 - 从 2021 年 5 月份起，学生 Étudiant 居留卡和人才签证 Passeport-talent 居留卡（包括所有类型，比如 salarié qualifié，或者 chercheur）
 - [从 2021 年 9 月份起](<https://www.immigration.interieur.gouv.fr/Info-ressources/Actualites/Communiques/Nouvelle-etape-dans-la-modernisation-du-service-rendu-aux-usagers-etrangers-3-nouvelles-demarches-a-effectuer-integralement-en-ligne>)，可以申请访客 Visiteur 的居留卡，也可以办理更换地址 changement d'adresse 和因为居留卡遗失或被偷办理副本 duplicata。
 
+根据一个咨询我的朋友的经验，她 2021 年 8 月在这个平台上申请了人才签证 passeport-talent salarié 居留卡，一个月内就收到了 attestation de décision favorable 的通知，即材料审核通过已经开始制卡，可见速度是非常快！
+{: .notice--success}
+
 根据[法国内政部的通告 Qu’est-ce que l’Administration Numérique pour les Etrangers en France ?](https://www.immigration.interieur.gouv.fr/content/download/129229/1030015/file/Flyer-A4-ANEF-sept2021.pdf)，这个平台将逐渐推广到所有居留类型。
 
 | 日期                            | 居留类型                                                     |
