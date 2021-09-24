@@ -21,7 +21,9 @@ last_modified_at: 2019-08-07
 在申请这张新的长居卡的期间，凭借 récépissé 就可以直接工作，参考 [R431-14](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042806976) 条款。
 
 > Est autorisé à exercer une activité professionnelle le titulaire du récépissé de demande de première délivrance des titres de séjour suivants :
+>
 > ...
+>
 > 2° La carte de séjour temporaire portant la mention " recherche d'emploi ou création d'entreprise " prévue à l'article L. 422-10 ou L. 422-14 ;
 
 ## Chercheur 居留成最大赢家，但要做出选择
