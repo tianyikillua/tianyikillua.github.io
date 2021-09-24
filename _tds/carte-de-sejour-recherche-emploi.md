@@ -1,14 +1,8 @@
 ---
 title: "Carte de séjour recherche d'emploi"
-tags:
-  - 法国
-  - Carte de séjour
-  - 法律
+words_per_minute: 20
 last_modified_at: 2019-08-07
 ---
-
-本文的新地址在[这里](/tds/carte-de-sejour-recherche-emploi/)。
-{: .notice--info}
 
 在之前关于[法国外国人职员居留的博文](/2018/03/25/carte-de-sejour-salarie)中提到了关于硕士学生的 APS 的改革已经于 2019 年 3 月 1 日起实施，相关的在外国人法典和劳工法的法令（circulaire 在[这里](https://drive.google.com/file/d/1K8KZQ7NeYMW1rq75pcaD2zQAFWfDi998)，尽管没什么信息）也公布出来，下面就来比较一下改革前后的区别。
 
@@ -22,11 +16,17 @@ last_modified_at: 2019-08-07
 | 后续申请十年居留 Carte de résident | 不计入在 5 年计算中                                          | 计入在 5 年计算中                                            |
 | 其他                               |                                                              | 如果拿到硕士以上文凭之后离开法国，那么 4 年内可以回法国申请这个居留（以一个 1 年期的 VLS-TS 等效居留的长期签证的形式） |
 
-## Chercheur 居留成最大赢家
+## 申请期间凭借 Récépissé 也可直接工作
 
-对于（硕士）学生来说基本上没有什么区别，除了以前是一张纸现在则是一张卡。而对于 *Chercheur* 来说，这次改革避免了在等待工签（不管是普通的 *salarié*，还是 *passeport-talent salarié*）期间不能工作的窘境。之前的 APS 只限于有 *étudiant* 标注的长居卡，而现在终于也拓展到了 *chercheur* 长居卡。更方便的是，在申请这张新的长居卡的期间，凭借 récépissé 就可以直接工作（参考 [R311-6](https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=FA7CAD8D59081687AAF5355F494C4BB1.tplgfr34s_3?idArticle=LEGIARTI000038188960&cidTexte=LEGITEXT000006070158) 条款，其中 L. 313-8 指的就是这张卡 recherche d'emploi ou création d'entreprise），用不着“干瞪眼”在家等工签。
+在申请这张新的长居卡的期间，凭借 récépissé 就可以直接工作，参考 [R431-14](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042806976) 条款。
 
-## 但要做出选择
+> Est autorisé à exercer une activité professionnelle le titulaire du récépissé de demande de première délivrance des titres de séjour suivants :
+> ...
+> 2° La carte de séjour temporaire portant la mention " recherche d'emploi ou création d'entreprise " prévue à l'article L. 422-10 ou L. 422-14 ;
+
+## Chercheur 居留成最大赢家，但要做出选择
+
+对于（硕士）学生来说基本上没有什么区别，除了以前是一张纸现在则是一张卡。而对于 *Chercheur* 来说，这次改革避免了在等待工签（不管是普通的 *salarié*，还是 *passeport-talent salarié*）期间不能工作的窘境。之前的 APS 只限于有 *étudiant* 标注的长居卡，而现在终于也拓展到了 *chercheur* 长居卡。
 
 当然，这次通过一张新的长居卡的方式让研究人员做完合同后（比如博士结束）可以去私企工作也引出了一些有意思的问题，因为 *chercheur* 合同结束，可以凭借失业理由拿到一张 2 年的长居卡，而现在的 Carte de séjour *recherche d'emploi* 只有 1 年的期限。所以：
 
@@ -50,3 +50,5 @@ last_modified_at: 2019-08-07
 > 2019 年 5 月 19 日更新：这张新的卡还有一个很隐秘的细节，就是它可以计入在后续申请十年居留 carte de résident 所需要的 5 年中。
 
 > 2019 年 8 月 7 日更新：补充可以全工 100% 工作期限；添加 récépissé 就可以直接工作的条款。
+
+> 2021 年 9 月 24 日更新：更新了法律条款。

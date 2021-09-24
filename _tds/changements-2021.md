@@ -78,4 +78,4 @@ words_per_minute: 20
 
 现在，公司也可以在 [Administration numérique des étrangers en France](https://administration-etrangers-en-france.interieur.gouv.fr) 平台上为你申请工作许可。
 
-申请完公司应该会给你一个回执，将这个回执与你的材料一同交给 préfecture 申请 salarié /travailleur temporaire 长居卡。
+申请完公司应该会给你一个回执，将这个回执与你的材料一同交给 préfecture 申请 salarié / travailleur temporaire 长居卡。

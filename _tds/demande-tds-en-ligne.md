@@ -1,6 +1,7 @@
 ---
 title: "在线申请法国外国人居留"
 words_per_minute: 20
+last_modified_at: 2021-09-23
 ---
 
 [Administration numérique des étrangers en France](https://administration-etrangers-en-france.interieur.gouv.fr) 是法国内政部推出的办理外国人相关业务的网络平台。
