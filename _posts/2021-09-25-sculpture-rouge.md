@@ -21,7 +21,7 @@ gallery:
 
 类似于 [Space invaders](https://www.space-invaders.com/world/paris/)，它们提醒我们，这个世界不仅属于能被看到的我们，也属于那些由于某些原因不能被我们看到的他 / 她们。
 
-前不久在塞纳河边散步的时候，注意到了 Pont Marie 桥下的一个奇怪的红色雕塑，激发了我的好奇心。根据[新闻](https://www.leparisien.fr/paris-75/paris-deux-nouvelles-sculptures-installees-en-douce-07-09-2020-8380170.php)，这个雕塑是法国图卢斯艺术家 James Colomina 的作品。可以发现这位红孩子带着一顶锥形的高帽子，也就是法语中所谓的 bonnet d'âne，中文直译过来就是「驴帽」[^1]，是欧洲很多地方教师惩罚学生的一种习俗，具体可参考[维基百科](https://fr.wikipedia.org/wiki/Bonnet_d%27%C3%A2ne)。
+前不久在塞纳河边散步的时候，注意到了 Pont Marie 桥下的一个奇怪的红色雕塑，激发了我的好奇心。根据[新闻](https://www.leparisien.fr/paris-75/paris-deux-nouvelles-sculptures-installees-en-douce-07-09-2020-8380170.php)，这个雕塑是法国图卢斯艺术家 James Colomina 的作品。可以发现这位红孩子带着一顶锥形的高帽子，也就是法语中所谓的 bonnet d'âne，中文直译过来就是「驴帽」[^1]，是欧洲很多地方教师惩罚学生的一种习俗，让做坏事的学生带着「驴帽」站在角落，具体可参考[维基百科](https://fr.wikipedia.org/wiki/Bonnet_d%27%C3%A2ne)。
 
 {% include gallery caption="Pont Marie, Paris" %}
 
