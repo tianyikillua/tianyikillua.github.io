@@ -106,7 +106,7 @@ classes: default
 
   如果你有一张多年长居卡 carte de séjour pluriannuelle（包括 passeport-talent），那么一旦你满足申请条件，不管你现在的长居卡有没有到期，都可以去警察局申请。
 
-  [法律条款](https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=32335BB8759347D8F724B050F85341F7.tplgfr26s_2?idArticle=LEGIARTI000033332680&cidTexte=LEGITEXT000006070158)
+  [法律条款](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042806996)
 
 ## 欧盟
 
