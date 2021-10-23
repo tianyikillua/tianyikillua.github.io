@@ -26,7 +26,9 @@ words_per_minute: 20
 <img src="/assets/images/2021/10/boursorama-livret.png" width="1024px" />
 
 > 说到 Boursorama，我个人非常推荐，因为没有任何年费，而且无论是网页端还是手机 App 都设计得很好，使用非常方便。如果满足收入或者金额条件也可以免费得到银行卡。
+>
 > 如果你也想在 Boursorama 开户，欢迎输入我的 Parrainage 码：`TILI7690`
+>
 > 你可以获得 80 欧，我也可以获得 80 欧～
 
 可以发现很多这种银行（至少也包括 Fortuneo）自己的商业储蓄账户不仅利率低（只有 0.05%，是政府储蓄账户的十分之一，而且
@@ -53,7 +55,7 @@ words_per_minute: 20
 
 需要说明的是，这里查询结果是针对 [My Money Bank](https://www.mymoneybank.fr/)，而不是 [Cashbee](https://www.cashbee.fr/)。这是因为 Cashbee 的储蓄账户具体还是存在这个银行中，Cashbee 只是一个储蓄产品提供商。
 
-如果你感兴趣的话，务必用下面这个链接下载 [Cashbee] 应用。
+如果你感兴趣的话，务必用下面这个链接下载 Cashbee 应用。
 
 > [https://cashb.ee/tianyi_VMAFJ](https://cashb.ee/tianyi_VMAFJ)
 
