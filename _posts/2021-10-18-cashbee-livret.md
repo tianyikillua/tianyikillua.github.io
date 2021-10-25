@@ -1,7 +1,8 @@
 ---
 title: "法国银行储蓄账户新选择 Cashbee"
 tags:
-  - 储蓄
+  - 法国
+  - 理财
   - 务实
 words_per_minute: 20
 ---
