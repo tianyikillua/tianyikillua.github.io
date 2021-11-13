@@ -21,7 +21,7 @@ words_per_minute: 50
 - 第三个论点是：拥抱情绪之后才使我们学会自爱和爱别人：看到自己的情绪，看到他人的情绪。
 - 结尾又回到自己被淹死的经历，提到自己回到宿舍听歌就突然哭，最终用电影「巴黎我爱你」里面我非常喜欢的一段话结尾，就是[这篇博文](/2011/10/02/themechange)里面的这段。
 
-## Faut-il contrôler nos émotions
+## Faut-il contrôler nos émotions (NON)
 
 Fin août, dans le Gorge du Verdon, j'ai failli mourir.
 
