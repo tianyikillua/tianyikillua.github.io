@@ -23,7 +23,7 @@ words_per_minute: 50
 
 ## Faut-il contrôler nos émotions (NON)
 
-Fin août, dans le Gorge du Verdon, j'ai failli mourir.
+Fin août, dans le Gorge du Verdon, j'ai failli mourir.
 
 Emporté par la rivière qui portait le même nom, et surtout emporté par les émotions.
 
