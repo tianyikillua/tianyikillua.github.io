@@ -20,5 +20,6 @@ layout: collection
 | ------------------------------- | ------------------------------------------------------------ |
 | 2021 年 4 月          | 咨询关于 passeport-talent chercheur 之后换 10 年签                 |
 | 2021 年 8 月                 | 咨询关于 travailleur temporaire 换身份到 passeport-talent salarié。帮助撰写情况信（因为咨询人的居留刚刚过期了），在 [Administration numérique des étrangers en France](https://administration-etrangers-en-france.interieur.gouv.fr) 平台上申请了人才签证 passeport-talent salarié 居留卡，一个月内就收到了 attestation de décision favorable 的通知，即材料审核通过已经开始制卡，速度是非常快  |
+| 2021 年 9 月 | 咨询关于 Entrepreneur / profession libérale 续居留的事宜 |
 | 2021 年 12 月 | 咨询关于 passeport-talent renommée internationale 续居留的事宜 |
 | 2022 年 2 月 | 咨询关于 passeport-talent salarié 之后从事自由职业和申请 10 年居留的问题 |
