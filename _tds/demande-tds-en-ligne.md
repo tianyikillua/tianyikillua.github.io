@@ -35,11 +35,26 @@ last_modified_at: 2021-09-23
 | 2020 年 9 月 17 日              | 学生                                                         |
 | 2019 年 2 月 19 日              | 等效于居留卡的长期签证 VLS-TS 网上认证                       |
 
+2022 年 2 月 14 日更新。我发现内政部[更新了这个网上平台推广的表格](https://www.immigration.interieur.gouv.fr/content/download/129229/1030015/file/Flyer-A4-ANEF-fevr2022.pdf)。在最新的表格中，工作签证和 10 年居留都预计会在 2022 年底才能推广到网上申请。可以注意到真的是一拖再拖！
+{: .notice--info}
+
+| 日期                            | 居留类型                                                     |
+| ------------------------------- | ------------------------------------------------------------ |
+| 2022 年第四季度          | 其他类型（工作，10 年居留……）                 |
+| 2022 年第三季度                 | Vie privée et familiale、欧盟公民  |
+| 2022 年第二季度 | 人权国际保护 protection internationale                 |
+
 ## 工作许可
 
-公司也可以在 [Administration numérique des étrangers en France](https://administration-etrangers-en-france.interieur.gouv.fr) 平台上为你申请工作许可。
+公司也可以在 [Administration numérique des étrangers en France](https://administration-etrangers-en-france.interieur.gouv.fr/immiprousager/#/authentification) 平台上为你申请工作许可。
 
 申请完公司应该会给你一个回执，将这个回执与你的材料一同交给 préfecture 申请 salarié / travailleur temporaire 长居卡。
+
+## 商签项目的审核
+
+2021 年 9 月份修改了外国人的 [R421-9](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044101690) 条款。外国人如果想从事工商业活动，需要先向劳工局上报项目审核。上交材料也是通过 [Administration numérique des étrangers en France](https://administration-etrangers-en-france.interieur.gouv.fr/immiprousager/#/authentification) 平台。
+
+注意的是，自由职业者不需要申请审核。
 
 ## 法籍
 
