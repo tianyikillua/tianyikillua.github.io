@@ -9,6 +9,7 @@ title_separator          : "-"
 name                     : "Tianyi"
 description              : "法国巴黎生活分享"
 url                      : "https://www.litianyi.me"
+breadcrumbs              : false
 words_per_minute         : 20
 comments:
   provider               : "disqus"
