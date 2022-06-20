@@ -10,6 +10,8 @@ words_per_minute: 20
 
 {% include video id="2jzFvXNr9rE" provider="youtube" %}
 
+使我感动的是，不仅形式上非常优美，内容最后也上升到推崇社会包容～本人就是非常理想主义哈哈。
+
 ## 尝试的中文翻译
 
 一个点……很大
