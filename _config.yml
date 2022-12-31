@@ -1,13 +1,14 @@
 # Theme Settings
 remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default"
+minimal_mistakes_skin2   : "dark"
 
 # Site Settings
 locale                   : "zh-CN"
 title                    : "Fly me to the moon"
 title_separator          : "-"
 name                     : "Tianyi"
-description              : "法国巴黎生活分享"
+description              : "一只在巴黎的 INFJ 的博客"
 url                      : "https://www.litianyi.me"
 breadcrumbs              : false
 words_per_minute         : 20
