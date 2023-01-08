@@ -14,19 +14,19 @@ words_per_minute: 20
 1. 你现在持有 Carte de séjour *étudiant*，硕士学业结束找工作
 2. 你现在持有 Carte de séjour *passeport-talent chercheur*（也就是以前的 *Scientifique-chercheur* ），研究合同（比如博士）结束想找私企的工作
 
-下面这个表格稍微比较了 3 个主要的职员居留卡，加上研究人员的居留卡。当然如果你满足[欧盟蓝卡](https://zh.wikipedia.org/wiki/%E6%AC%A7%E7%9B%9F%E8%93%9D%E5%8D%A1) *Passeport-talent carte bleue européenne*（3 年高等教育或 5 年工作经历，加上每年 50k 左右以上工资）的条件，那么拿到的卡和 Passeport-talent salarié 没有很大区别。
+下面这个表格稍微比较了 3 个主要的职员居留卡，加上研究人员的居留卡和 [Carte de séjour recherche d’emploi](/tds/carte-de-sejour-recherche-emploi)。当然如果你满足[欧盟蓝卡](https://zh.wikipedia.org/wiki/%E6%AC%A7%E7%9B%9F%E8%93%9D%E5%8D%A1) *Passeport-talent carte bleue européenne*（3 年高等教育或 5 年工作经历，加上每年 50k 左右以上工资）的条件，那么拿到的卡和 Passeport-talent salarié 没有很大区别。
 
-表格在 2023 年 1 月 8 日更新了法律条款和换工作的信息。
+表格在 2023 年 1 月 8 日更新了法律条款、Recherche d'emploi 和换工作的信息。
 {: .notice--info}
 
-|              | Salarié L421-1             | Travailleur temporaire L421-3  | Passeport-talent salarié L421-9               | Passeport-talent chercheur L421-14 |
-| ------------ | ------------------------------------- | -------------------------------------- | ----------------------------------------------------- | ----------------------------------------- |
-| 条件         | CDI 合同                              | CDD 合同                               | 2 倍 SMIC 工资的合同 + 硕士以上文凭（或创业公司职员） | 硕士以上文凭 + 研究协议                   |
-| 工作许可     | 通过劳工局 Direccte 审核              | 通过劳工局 Direccte 审核               | 不需要通过劳工局                                      | 不需要通过劳工局                          |
-| 申请期间工作 | 劳工局审核通过后可以凭 Récépissé 工作 | 劳工局审核通过后可以凭 Récépissé 工作  | 不可以                                                | 不可以                                    |
-| 居留卡期限   | 第一次 1 年、续的时候给 4 年          | 第一次 1 年、续的时候按照 CDD 合同期限 | 按照合同期限，最高 4 年（比如 CDI）                   | 按照合同期限，最高 4 年（比如 CDI）       |
-| 失业         | 可以先续 1 年，之后再续 1 年（具体根据你的工作时间）          | Bye-bye                                | 可以直接续 2 年（具体根据你的工作时间）                                       | 可以直接续 2 年（具体根据你的工作时间）                           |
-| 换工作       | 需要公司在 [ANEF](https://administration-etrangers-en-france.interieur.gouv.fr/immiprousager/#/authentification) 平台上申请新的工作许可                    | 不可以                                 | 法律没有明确规定，如果新工作人仍然符合持有该卡的工资条件那么应该没问题。                                   | 不可以                                    |
+|              | Recherche d'emploi L422-10         | Salarié L421-1             | Travailleur temporaire L421-3  | Passeport-talent salarié L421-9               | Passeport-talent chercheur L421-14 |
+| ------------ | --------------- | ---------------------- | -------------------------------------- | ----------------------------------------------------- | ----------------------------------------- |
+| 条件         | 学生拿到硕士以上文凭，或者 Chercheur 合同结束（比如博士做完）| CDI 合同                              | CDD 合同                               | 2 倍 SMIC 工资的合同 + 硕士以上文凭（或创业公司职员） | 硕士以上文凭 + 研究协议                   |
+| 工作许可     | 可以从事所有工作（职员，或者创业）；可以全工 100% 工作期限 | 通过劳工局 Direccte 审核              | 通过劳工局 Direccte 审核               | 不需要通过劳工局                                      | 不需要通过劳工局                          |
+| 申请期间工作 | 凭借 Récépissé 可以工作 | 劳工局审核通过后可以凭 Récépissé 工作 | 劳工局审核通过后可以凭 Récépissé 工作  | 不可以                                                | 不可以                                    |
+| 居留卡期限   | 1 年，之后可以转为此表格中其他居留卡 | 第一次 1 年、续的时候给 4 年          | 第一次 1 年、续的时候按照 CDD 合同期限 | 按照合同期限，最高 4 年（比如 CDI）                   | 按照合同期限，最高 4 年（比如 CDI）       |
+| 失业         | 允许在 Pole-emploi 注册，但居留权仍然不可续 | 可以先续 1 年，之后再续 1 年（具体根据你的工作时间）          | Bye-bye                                | 可以直接续 2 年（具体根据你的工作时间）                                       | 可以直接续 2 年（具体根据你的工作时间）                           |
+| 换工作       | 在 1 年内可以随便换 | 需要公司在 [ANEF](https://administration-etrangers-en-france.interieur.gouv.fr/immiprousager/#/authentification) 平台上申请新的工作许可                    | 需要公司在 [ANEF](https://administration-etrangers-en-france.interieur.gouv.fr/immiprousager/#/authentification) 平台上申请新的工作许可                                 | 法律没有明确规定，如果新工作人仍然符合持有该卡的工资条件那么应该没问题。                                   | 不可以                                    |
 
 ### 居留卡的比较
 
