@@ -46,6 +46,9 @@ words_per_minute: 20
 - 关于 passeport-talent salarié，如果你的新工作仍然符合这张卡本身的规定（最关键的就是工资要求，目前是一年 37k），那么理论上仍然不需要通过劳工局（passeport-talent 的优点），直接 préfecture 重新审核即可。
 - 如果你是 4 年的 salarié 卡，那么需要重新申请工作许可。
 
+2023 年 1 月 8 日更新：目前我的理解是，由于这两条的消失，使得 passeport-talent salarié 持有人换工作成为法律上的一个灰色地带。由于 passeport-talent 不需要去申请工作许可，所以如果新工作如果仍然符合卡本身的规定，应该就没有问题。
+{: .notice--success}
+
 ### Métiers en tension 终于更新了
 
 终于，2008 年的 liste des métiers en tension 终于更新了，最新的列表在 [Arrêté du 1er avril 2021 relatif à la délivrance, sans opposition de la situation de l'emploi, des autorisations de travail aux étrangers non ressortissants d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'Espace économique européen ou de la Confédération suisse](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000043317444) 中可以找到。

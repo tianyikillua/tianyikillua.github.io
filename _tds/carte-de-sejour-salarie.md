@@ -14,16 +14,19 @@ words_per_minute: 20
 1. 你现在持有 Carte de séjour *étudiant*，硕士学业结束找工作
 2. 你现在持有 Carte de séjour *passeport-talent chercheur*（也就是以前的 *Scientifique-chercheur* ），研究合同（比如博士）结束想找私企的工作
 
-下面这个表格稍微比较了 3 个主要的职员居留卡，加上研究人员的居留卡。当然如果你满足[欧盟蓝卡](https://zh.wikipedia.org/wiki/%E6%AC%A7%E7%9B%9F%E8%93%9D%E5%8D%A1) *Passeport-talent carte bleue européenne*（3 年高等教育或 5 年工作经历，加上每年 50k 左右以上工资）的条件，那么拿到的卡和 Passeport-talent salarié L. 313-20 (1°) 没有很大区别。
+下面这个表格稍微比较了 3 个主要的职员居留卡，加上研究人员的居留卡。当然如果你满足[欧盟蓝卡](https://zh.wikipedia.org/wiki/%E6%AC%A7%E7%9B%9F%E8%93%9D%E5%8D%A1) *Passeport-talent carte bleue européenne*（3 年高等教育或 5 年工作经历，加上每年 50k 左右以上工资）的条件，那么拿到的卡和 Passeport-talent salarié 没有很大区别。
 
-|              | Salarié L. 313-10 (1°)                | Travailleur temporaire L. 313-10 (2°)  | Passeport-talent salarié L. 313-20 (1°)               | Passeport-talent chercheur L. 313-20 (4°) |
+表格在 2023 年 1 月 8 日更新了法律条款和换工作的信息。
+{: .notice--info}
+
+|              | Salarié L421-1             | Travailleur temporaire L421-3  | Passeport-talent salarié L421-9               | Passeport-talent chercheur L421-14 |
 | ------------ | ------------------------------------- | -------------------------------------- | ----------------------------------------------------- | ----------------------------------------- |
 | 条件         | CDI 合同                              | CDD 合同                               | 2 倍 SMIC 工资的合同 + 硕士以上文凭（或创业公司职员） | 硕士以上文凭 + 研究协议                   |
 | 工作许可     | 通过劳工局 Direccte 审核              | 通过劳工局 Direccte 审核               | 不需要通过劳工局                                      | 不需要通过劳工局                          |
 | 申请期间工作 | 劳工局审核通过后可以凭 Récépissé 工作 | 劳工局审核通过后可以凭 Récépissé 工作  | 不可以                                                | 不可以                                    |
 | 居留卡期限   | 第一次 1 年、续的时候给 4 年          | 第一次 1 年、续的时候按照 CDD 合同期限 | 按照合同期限，最高 4 年（比如 CDI）                   | 按照合同期限，最高 4 年（比如 CDI）       |
-| 失业         | 可以先续 1 年，之后再续 1 年          | Bye-bye                                | 可以直接续 2 年                                       | 可以直接续 2 年                           |
-| 换工作       | 4 年居留可以随便换                    | 不可以                                 | 第 3 年起可以随便换                                   | 不可以                                    |
+| 失业         | 可以先续 1 年，之后再续 1 年（具体根据你的工作时间）          | Bye-bye                                | 可以直接续 2 年（具体根据你的工作时间）                                       | 可以直接续 2 年（具体根据你的工作时间）                           |
+| 换工作       | 需要公司在 [ANEF](https://administration-etrangers-en-france.interieur.gouv.fr/immiprousager/#/authentification) 平台上申请新的工作许可                    | 不可以                                 | 法律没有明确规定，如果新工作人仍然符合持有该卡的工资条件那么应该没问题。                                   | 不可以                                    |
 
 ### 居留卡的比较
 
@@ -36,11 +39,13 @@ words_per_minute: 20
 
 如果你“被迫失去工作” Involontairement privé d'emploi，主要情况就是被解雇（不是所有解雇理由）和 CDD 合同结束，根据劳工法 R. 5221-48，*salarié* 和 *passeport-talent* 居留允许你拿失业金（如果你工作超过 2 年，可以拿 2 年失业金，有个小区别，一个是 1+1，一个直接给 2 年），但 *travailleur temporaire* 不行！这就是目前很矛盾、不公平的地方，一般失业最常见的就是 CDD 合同结束，但现在 CDD 只能申请 *travailleur temporaire*，而这个身份不能拿失业金，续居留。需要知道的是这个规定是相对新的（理论上是从 2016 年 11 月开始实施），而之前如果你有一个超过 1 年的 CDD 结束是可以拿失业金的，因为以前超过 1 年的 CDD 给你 salarié 的居留。[Pole-emploi](https://www.pole-emploi.fr/region/martinique/candidat/les-indispensables-pour-vous-inscrire-@/region/martinique/article.jspz?id=46649) 和 [service-public](https://www.service-public.fr/particuliers/vosdroits/F24465) 网上都还没有更新，所以现在实施情况不知如何。需要说的是如果你是 *passeport-talent cheucheur* 做研究合同（比如博士），那么合同结束可以申请失业、续 2 年居留，和 *passeport-talent salarié* 一样。
 
-至于拿到卡之后换工作，这是个很复杂的、法律也没有很好地规定的事情。清楚的是
+至于拿到卡之后换工作，参考[2021 法国外国人居留政策新变化](/tds/changements-2020)中所写的，大致情况如下
 
-- 根据劳工法，如果你一直是期限为 1 年的 *salarié* 居留，那么第三年起可以随便换工作，不需要申请新的工作许可（问题是一般来说你拿 1 年的 *salarié*，续的时候不管是不是新的工作还是老工作，都给你 4 年卡，可能有一些特殊情况吧）；如果你已经有 *carte de séjour pluriannuelle salarié*（一般 4 年），那么也可以随便换工作；
-- 如果你是 CDD，那么只能在工作许可范围下工作；拿到新的 CDD 那么重新申请工作许可和 *travailleur temporaire* 卡；
-- 如果是 passeport-talent salarié，理论上也只能在一开始申请的时候的工作合同下工作；但第三年起可以随便换工作，前提是继续满足条件（2 倍 SMIC）。
+- 如果你持有普通工签 *salarié* (CDI) 或 *travailleur temporaire* (CDD) 居留，那么换工作需要公司在 [ANEF](https://administration-etrangers-en-france.interieur.gouv.fr/immiprousager/#/authentification) 平台上申请新的工作许可。
+- 如果是 passeport-talent salarié，存在一个法律灰色地带。根据 [L421-9](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042776769)，*Cette carte permet l'exercice de l'activité professionnelle salariée ayant justifié sa délivrance* 即这张卡只允许你从事申请时的那份工作。但同时劳工法 [R5221-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043323648) 条款明确指出 passeport-talent 不需要工作许可。此外，续居留卡也必须在卡过期前几个月申请，在此之前是不能申请新的卡或者换身份。于是得出结论……法律没有规定怎么办。但实际操作上，我目前的理解是，如果新工作合同仍然满足 passeport-talent 卡的条件（比如工资）那么就没有问题，可以用目前的卡从事新工作。但如果新工作不满足条件，那可能需要公司去 [ANEF](https://administration-etrangers-en-france.interieur.gouv.fr/immiprousager/#/authentification) 平台上申请新的工作许可。
+
+2023 年 1 月 8 日更新了换工作的信息。
+{: .notice--info}
 
 ### 学生换工作身份
 
