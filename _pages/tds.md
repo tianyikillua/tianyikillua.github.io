@@ -18,8 +18,14 @@ layout: collection
 
 | 日期                            | 咨询内容                                                     |
 | ------------------------------- | ------------------------------------------------------------ |
-| 2021 年 4 月          | 咨询关于 passeport-talent chercheur 之后换 10 年签                 |
-| 2021 年 8 月                 | 咨询关于 travailleur temporaire 换身份到 passeport-talent salarié。帮助撰写情况信（因为咨询人的居留刚刚过期了），在 [Administration numérique des étrangers en France](https://administration-etrangers-en-france.interieur.gouv.fr) 平台上申请了人才签证 passeport-talent salarié 居留卡，一个月内就收到了 attestation de décision favorable 的通知，即材料审核通过已经开始制卡，速度是非常快  |
-| 2021 年 9 月 | 咨询关于 Entrepreneur / profession libérale 续居留的事宜 |
-| 2021 年 12 月 | 咨询关于 passeport-talent renommée internationale 续居留的事宜 |
-| 2022 年 2 月 | 咨询关于 passeport-talent salarié 之后从事自由职业和申请 10 年居留的问题 |
+| 2021 年 4 月          | Passeport-talent chercheur 之后换 10 年签                 |
+| 2021 年 8 月                 | 关于 travailleur temporaire 换身份到 passeport-talent salarié。帮助撰写情况信（因为咨询人的居留刚刚过期了），在 [Administration numérique des étrangers en France](https://administration-etrangers-en-france.interieur.gouv.fr) 平台上申请了人才签证 passeport-talent salarié 居留卡，一个月内就收到了 attestation de décision favorable 的通知，即材料审核通过已经开始制卡，速度是非常快  |
+| 2021 年 9 月 | Entrepreneur / profession libérale 续居留的事宜 |
+| 2021 年 12 月 | Passeport-talent renommée internationale 续居留的事宜 |
+| 2022 年 2 月 | Passeport-talent salarié 之后从事自由职业和申请 10 年居留的事宜 |
+| 2022 年 8 月 | 持有 passeport talent-chercheur，转成 passeport talent-salarié 和 carte de séjour recherche d'emploi 的事宜 |
+| 2022 年 9 月 | 硕士毕业申请工签（普通工签、passeport talent 或 recherche d'emploi）的相关事宜 |
+| 2022 年 10 月 | 持有 Carte de séjour recherche d'emploi，询问转成 passeport-talent 的事宜 |
+| 2022 年 11 月 | 硕士毕业申请工签（普通工签或 recherche d'emploi）的相关事宜 |
+| 2022 年 11 月 | 失业申请续 passeport-talent salarié 的相关事宜 |
+| 2022 年 12 月 | 持有 passeport talent-salarié 试用期被公司解除合同的相关问题 |
