@@ -28,4 +28,5 @@ layout: collection
 | 2022 年 10 月 | 持有 Carte de séjour recherche d'emploi，询问转成 passeport-talent 的事宜 |
 | 2022 年 11 月 | 硕士毕业申请工签（普通工签或 recherche d'emploi）的相关事宜 |
 | 2022 年 11 月 | 失业申请续 passeport-talent salarié 的相关事宜 |
-| 2022 年 12 月 | 持有 passeport talent-salarié 试用期被公司解除合同的相关问题 |
+| 2022 年 12 月 | Passeport-talent chercheur 博士结束以失业为由申请续居留的事宜 |
+| 2022 年 12 月 | 持有 passeport talent-salarié 试用期被公司解除合同的相关事宜 |
