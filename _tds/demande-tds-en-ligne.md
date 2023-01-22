@@ -35,7 +35,7 @@ last_modified_at: 2021-09-23
 | 2020 年 9 月 17 日              | 学生                                                         |
 | 2019 年 2 月 19 日              | 等效于居留卡的长期签证 VLS-TS 网上认证                       |
 
-2022 年 2 月 14 日更新。我发现内政部[更新了这个网上平台推广的表格](https://www.immigration.interieur.gouv.fr/content/download/129229/1030015/file/Flyer-A4-ANEF-fevr2022.pdf)。在最新的表格中，工作签证和 10 年居留都预计会在 2022 年底才能推广到网上申请。可以注意到真的是一拖再拖！
+2022 年 2 月 14 日更新：我发现内政部[更新了这个网上平台推广的表格](https://www.immigration.interieur.gouv.fr/content/download/129229/1030015/file/Flyer-A4-ANEF-fevr2022.pdf)。在最新的表格中，工作签证和 10 年居留都预计会在 2022 年底才能推广到网上申请。可以注意到真的是一拖再拖！
 {: .notice--info}
 
 | 日期                            | 居留类型                                                     |
@@ -43,6 +43,13 @@ last_modified_at: 2021-09-23
 | 2022 年第四季度          | 其他类型（工作，10 年居留……）                 |
 | 2022 年第三季度                 | Vie privée et familiale、欧盟公民  |
 | 2022 年第二季度 | 人权国际保护 protection internationale                 |
+
+2023 年 1 月 22 日更新：2023 年初仍然有很多居留不能在这个网上平台直接申请。最近有[一名参议员还问了法国内政部关于其他居留在这个平台上申请的事宜](https://www.senat.fr/questions/base/2023/qSEQ230104799.html)。
+{: .notice--info}
+
+## 如果在平台上申请有困难
+
+根据[法国最高行政法院 Conseil d'Etat 的裁决](https://www.infomie.net/spip.php?article6365)，如果因为各种原因（约不上 RDV，平台有错误等）你无法在网上申请居留，你可以直接联系警察局，他们必须给予你其他申请居留的途径。
 
 ## 工作许可
 
@@ -55,6 +62,10 @@ last_modified_at: 2021-09-23
 2021 年 9 月份修改了外国人的 [R421-9](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044101690) 条款。外国人如果想从事工商业活动，需要先向劳工局上报项目审核。上交材料也是通过 [Administration numérique des étrangers en France](https://administration-etrangers-en-france.interieur.gouv.fr/immiprousager/#/authentification) 平台。
 
 注意的是，自由职业者不需要申请审核。
+
+## 赴法实习协议的审核
+
+如果你希望在法国企业实习，那么实习的三方协议（申请者、申请者就读的国外学校和企业）也需要通过这个[平台](https://administration-etrangers-en-france.interieur.gouv.fr/immiprousager/#/authentification)进行审核。根据我的经验，几天就可以得到回复。
 
 ## 法籍
 
