@@ -14,7 +14,7 @@ words_per_minute: 20
 根据目前[法案的计划稿](https://www.senat.fr/leg/pjl22-304.html)，在居留、工作方面带来的新政策有
 
 1. [除了一些免除情况](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042776855)（比如你在法国上过学、或持有学生或者人才长居卡等），那么今后申请多年制长居卡 Carte de séjour pluriannuelle 时，需要证明你的法语水平。
-2. 如果你在一些缺乏人才的行业中或岗位上工作，那么就算你现在是黑户（即没有有效的居留卡），那么你也可以获得一张 1 年的长居卡 Carte de séjour "métier en tension"，可以之后续成 Carte de séjour "salarié"。当然存在一些在法国居留时间的限制，但预计这张卡将使得很多黑户获得合法的居留权。
+2. 如果你在一些缺乏人才的行业中或岗位上工作，那么就算你现在是黑户（即没有有效的居留卡），那么你也可以获得一张 1 年的长居卡 Carte de séjour "métier en tension"，可以之后续成 Carte de séjour "salarié"。当然存在一些在法国居留时间的限制，但预计这张卡将使得很多黑户获得合法的居留权。至于哪些行业或岗位缺乏人才，具体[列表在这里](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000017937372)，但预计这个列表也将更新。
 3. 简化创业和投资类型的人才居留卡。众所周知，[「人才护照」包含了非常多的居留类型](https://www.service-public.fr/particuliers/vosdroits/F16922)。这次将把 "création d’entreprise"，"projet économique innovant" 与 "investissement économique" 这三种类型合并，成为新的 "porteur de projet" 类型。此外，“人才”将没有“护照”了！Passeport talent 将命名为 Talent。
 
 需要注意的是，关于已经在法国拥有一张多年工签类型长居卡在换工作时**不再需要申请新的工作许可**的政策，并没有出现在[法案的计划稿](https://www.senat.fr/leg/pjl22-304.html)中。这个政策其实[之前有宣布过](https://www.gisti.org/IMG/pdf/pjl2023_2022-11_resume-mi-mt-pour-consultation.pdf)，而且今天 [Conseil des ministres 之后的记者会](https://twitter.com/i/broadcasts/1nAJErkMPbXxL)中工作部长也口头提到。我估计是因为这个新政策不属于法律 Loi 的范畴，而算是一种行政法令 Décret réglementaire，所以不需要上下议会的讨论。这个将非常简化广大社畜换工作的政策预计将在新法律通过后，通过行政法令的方式 Décret 撰写到劳工法中，估计就是 [Article R5221-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043325323)。
