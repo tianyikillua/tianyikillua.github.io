@@ -7,7 +7,7 @@ words_per_minute: 20
 
 ## 新外国人居留法
 
-同志们，法国外国人居留法也要修改啦！[5 年后](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037381808)的今天，法国政府提交了新的[修改外国人居留法的法案计划 PROJET DE LOI pour contrôler l’immigration, améliorer l’intégration](https://www.senat.fr/leg/pjl22-304.html)，其标题翻译成中文就是「控制移民、改善融入」。
+同志们，法国外国人居留法终于又要修改啦！[5 年后](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037381808)的今天，法国政府提交了新的[修改外国人居留法的法案计划 PROJET DE LOI pour contrôler l’immigration, améliorer l’intégration](https://www.senat.fr/leg/pjl22-304.html)，其标题翻译成中文就是「控制移民、改善融入」。
 
 据 [Gisti](https://www.gisti.org/spip.php?article6862) 预测，该法案将于今年 2 - 3 月在法国上议院讨论，4 - 5 月将在法国下议院讨论，顺利的话 6 月份法律将通过。但如果考虑到行政实施法令 Décret 的撰写也需要一定时间，预计新法律带来一些新变化将于年底前实施。
 
