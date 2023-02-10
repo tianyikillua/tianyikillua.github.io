@@ -1,7 +1,7 @@
 ---
 title: "在线申请法国外国人居留"
 words_per_minute: 20
-last_modified_at: 2023-01-22
+last_modified_at: 2023-02-10
 ---
 
 [Administration numérique des étrangers en France](https://administration-etrangers-en-france.interieur.gouv.fr) 是法国内政部推出的办理外国人相关业务的网络平台。
@@ -69,6 +69,6 @@ last_modified_at: 2023-01-22
 
 ## 法籍
 
-目前，一些省开放了网上申请法籍的业务，应该在实验结束后会推向全国。
+[自 2023 年 2 月 6 日起](https://www.immigration.interieur.gouv.fr/Info-ressources/Actualites/L-actu-immigration/Demarches-en-ligne-la-demande-d-acces-a-la-nationalite-francaise-par-decret-generalisee)，[Administration numérique des étrangers en France](https://administration-etrangers-en-france.interieur.gouv.fr) 平台上可以办理法籍申请的手续。之前只有一些特定省份才可以在网上申请，现在是推广到了法国全境。
 
 <img src="/assets/images/pages/naturalisation-demande-en-ligne.png" width="800px" />

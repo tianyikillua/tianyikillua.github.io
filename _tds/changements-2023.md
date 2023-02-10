@@ -1,6 +1,7 @@
 ---
 title: "2023 年法国外国人居留及工作政策新变化"
 words_per_minute: 20
+last_modified_at: 2023-02-10
 ---
 
 继续前几年的 [2020 年法国外国人居留及工作政策新变化](/tds/changements-2020)和 [2021 年法国外国人居留及工作政策新变化](/tds/changements-2021)，这篇文章大致介绍 2023 年预计的法国外国人居留及工作政策的一些新变化。
@@ -21,4 +22,8 @@ words_per_minute: 20
 
 ## 继续推广在网上申请居留卡
 
-正如我在[在线申请法国外国人居留](/tds/demande-tds-en-ligne)一文中所说，法国政府原计划在 2022 年底将 [Administration numérique des étrangers en France](https://administration-etrangers-en-france.interieur.gouv.fr) 平台应用到所有居留卡的申请，但明显计划赶不上变化，出了点岔子。目前在这个国家平台上仍然无法申请工作签证 Salarié / Travailleur temporaire 和硕士毕业的 Recherche d'emploi，也无法申请 10 年长居卡。做一次预演党，估计今年可以……
+正如我在[在线申请法国外国人居留](/tds/demande-tds-en-ligne)一文中所说，法国政府原计划在 2022 年底将 [Administration numérique des étrangers en France](https://administration-etrangers-en-france.interieur.gouv.fr) 平台应用到所有居留卡的申请，但明显计划赶不上变化，出了点岔子。目前在这个国家平台上仍然无法申请工作签证 Salarié / Travailleur temporaire 和硕士毕业的 Recherche d'emploi，也无法申请 10 年长居卡。做一次预言党，估计今年可以……
+
+## 网上申请法籍
+
+[自 2023 年 2 月 6 日起](https://www.immigration.interieur.gouv.fr/Info-ressources/Actualites/L-actu-immigration/Demarches-en-ligne-la-demande-d-acces-a-la-nationalite-francaise-par-decret-generalisee)，[Administration numérique des étrangers en France](https://administration-etrangers-en-france.interieur.gouv.fr) 平台上可以办理法籍申请的手续。之前只有一些特定省份才可以在网上申请，现在是推广到了法国全境。
