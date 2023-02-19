@@ -19,7 +19,7 @@ words_per_minute: 20
 
 这个地方很简单，因为对于居留几乎啥都不认……
 
-[当然，如果你有法国本土的居留卡，你可以去那里短期旅游](https://www.nouvelle-caledonie.gouv.fr/Demarches-administratives/Accueil-des-etrangers/Conditions-d-entree-des-etrangers-en-Nouvelle-Caledonie/Documents-necessaires-pour-un-court-sejour-inferieur-ou-egal-a-3-mois/Vous-etes-ressortissant-d-un-pays-qui-ne-fait-pas-partie-de-l-Union-europeenne)，不要不超过三个月就好。
+[当然，如果你有法国本土的居留卡，你可以去那里短期旅游](https://www.nouvelle-caledonie.gouv.fr/Demarches-administratives/Accueil-des-etrangers/Conditions-d-entree-des-etrangers-en-Nouvelle-Caledonie/Documents-necessaires-pour-un-court-sejour-inferieur-ou-egal-a-3-mois/Vous-etes-ressortissant-d-un-pays-qui-ne-fait-pas-partie-de-l-Union-europeenne)，不超过三个月就好。
 
 但是，如果需要在那边停留超过三个月，不管你有没有法国的长居卡，[那么必须申请长期签证和居留](https://www.nouvelle-caledonie.gouv.fr/Demarches-administratives/Accueil-des-etrangers/Conditions-d-entree-des-etrangers-en-Nouvelle-Caledonie/Documents-necessaires-pour-un-long-sejour-plus-de-3-mois/Vous-etes-ressortissant-d-un-pays-qui-ne-fait-pas-partie-de-l-Union-europeenne)。
 
