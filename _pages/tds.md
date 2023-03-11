@@ -34,3 +34,6 @@ layout: collection
 | 2023 年 1 月 | Passeport-talent renommée internationale 续居留的事宜 |
 | 2023 年 1 月 | Entrepreneur 居留家属申请 Regroupement familial 和 Vie privée et familiale 卡的相关事宜 |
 | 2023 年 1 月 | 5 年工签后申请 10 年卡的相关事宜 |
+| 2023 年 2 月 | 申请 Carte de séjour recherche d'emploi 的相关事宜 |
+| 2023 年 2 月 | 续学生签证和挂失居留卡的相关事宜 |
+| 2023 年 3 月 | 申请 Visiteur，10 年卡和法籍的相关事宜 |
