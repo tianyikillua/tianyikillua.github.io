@@ -92,6 +92,16 @@ classes: default
 
 ## 十年长居
 
+- **学生居留的工作时长 964 小时如何计算？**
+
+学生居留的持有人在一般情况下只能工作全年 60% 的时间，即 964 小时。特殊情况主要是包含了一些学业所要求的工作，比如博士生等。
+
+根据 [Circulaire DPM/DMI2 no 2007-323 du 22 août 2007 relative aux autorisations de travail](https://travail-emploi.gouv.fr/publications/picts/bo/30092007/TRE_20070009_0110_0005.pdf)，这个 964 小时从居留卡的有效期起开始计算。
+
+> Cette durée commence à courir à compter de la délivrance du titre de séjour.
+
+比如 4 月 2 日长居卡生效，那么到明年的 4 月 1 日，只能工作 964 小时。
+
 - **申请十年长居的主要条件是什么？**
 
   当然，如果你和法籍结婚，或者你有一个法籍的孩子（等等），那么你可以拿到 carte de résident。下面主要说说 carte de résident de longue durée - UE。
