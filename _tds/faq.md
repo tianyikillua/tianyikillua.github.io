@@ -74,6 +74,16 @@ classes: default
 
 ## 工作
 
+- **学生居留的工作时长 964 小时如何计算？**
+
+  学生居留的持有人在一般情况下只能工作全年 60% 的时间，即 964 小时。特殊情况主要是包含了一些学业所要求的工作，比如博士生等。
+
+  根据 [Circulaire DPM/DMI2 no 2007-323 du 22 août 2007 relative aux autorisations de travail](https://travail-emploi.gouv.fr/publications/picts/bo/30092007/TRE_20070009_0110_0005.pdf)，这个 964 小时从居留卡的有效期起开始计算。
+
+  > Cette durée commence à courir à compter de la délivrance du titre de séjour.
+
+  比如 4 月 2 日长居卡生效，那么到明年的 4 月 1 日，只能工作 964 小时。
+
 - **我现在是学生，我第一次申请工签，会给我 4 年长居卡吗？**
 
   如果你不满足「人才护照」的条件，那么你第一次申请 salarié / travailleur temporaire 只会给你一张 1 年的短期长居卡。在续这张卡的时候才会给你一张多年长居卡。
@@ -91,16 +101,6 @@ classes: default
   详见这个[列表](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042801330/#LEGISCTA000042806982)。
 
 ## 十年长居
-
-- **学生居留的工作时长 964 小时如何计算？**
-
-学生居留的持有人在一般情况下只能工作全年 60% 的时间，即 964 小时。特殊情况主要是包含了一些学业所要求的工作，比如博士生等。
-
-根据 [Circulaire DPM/DMI2 no 2007-323 du 22 août 2007 relative aux autorisations de travail](https://travail-emploi.gouv.fr/publications/picts/bo/30092007/TRE_20070009_0110_0005.pdf)，这个 964 小时从居留卡的有效期起开始计算。
-
-> Cette durée commence à courir à compter de la délivrance du titre de séjour.
-
-比如 4 月 2 日长居卡生效，那么到明年的 4 月 1 日，只能工作 964 小时。
 
 - **申请十年长居的主要条件是什么？**
 
