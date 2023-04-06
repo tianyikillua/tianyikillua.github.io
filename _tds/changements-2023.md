@@ -24,6 +24,15 @@ last_modified_at: 2023-02-10
 
 正如我在[在线申请法国外国人居留](/tds/demande-tds-en-ligne)一文中所说，法国政府原计划在 2022 年底将 [Administration numérique des étrangers en France](https://administration-etrangers-en-france.interieur.gouv.fr) 平台应用到所有居留卡的申请，但明显计划赶不上变化，出了点岔子。目前在这个国家平台上仍然无法申请工作签证 Salarié / Travailleur temporaire 和硕士毕业的 Recherche d'emploi，也无法申请 10 年长居卡。做一次预言党，估计今年可以……
 
+2023 年 4 月 6 日更新：以下居留从 4 月 5 日起可以在平台上申请：
+
+- 法籍配偶 Conjoint d'un ressortissant français
+- 法籍子女的父母 parent d'un enfant français
+- 法籍经济不独立父母 ascendant d'un ressortissant français
+- 法籍的子女 enfant étranger d'un ressortissant français
+- Travailleur saisonnier
+- Carte de séjour de membre de la famille d'un citoyen UE/EEE/Suisse-Toutes activités professionnelles
+
 ## 网上申请法籍
 
 [自 2023 年 2 月 6 日起](https://www.immigration.interieur.gouv.fr/Info-ressources/Actualites/L-actu-immigration/Demarches-en-ligne-la-demande-d-acces-a-la-nationalite-francaise-par-decret-generalisee)，[Administration numérique des étrangers en France](https://administration-etrangers-en-france.interieur.gouv.fr) 平台上可以办理法籍申请的手续。之前只有一些特定省份才可以在网上申请，现在是推广到了法国全境。

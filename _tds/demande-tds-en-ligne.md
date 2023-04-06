@@ -47,6 +47,15 @@ last_modified_at: 2023-02-10
 2023 年 1 月 22 日更新：2023 年初仍然有很多居留不能在这个网上平台直接申请。最近有[一名参议员还问了法国内政部关于其他居留在这个平台上申请的事宜](https://www.senat.fr/questions/base/2023/qSEQ230104799.html)。
 {: .notice--info}
 
+2023 年 4 月 6 日更新：以下居留从 4 月 5 日起可以在平台上申请：
+
+- 法籍配偶 Conjoint d'un ressortissant français
+- 法籍子女的父母 parent d'un enfant français
+- 法籍经济不独立父母 ascendant d'un ressortissant français
+- 法籍的子女 enfant étranger d'un ressortissant français
+- Travailleur saisonnier
+- Carte de séjour de membre de la famille d'un citoyen UE/EEE/Suisse-Toutes activités professionnelles
+
 ## 如果在平台上申请有困难
 
 根据[法国最高行政法院 Conseil d'Etat 的裁决](https://www.infomie.net/spip.php?article6365)，如果因为各种原因（约不上 RDV，平台有错误等）你无法在网上申请居留，你可以直接联系警察局，他们必须给予你其他申请居留的途径。
