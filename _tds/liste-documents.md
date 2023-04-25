@@ -3,6 +3,8 @@ title: "法国居留证申请文件清单"
 words_per_minute: 20
 ---
 
+这篇博文中我提供了一些常见的居留类型所需要的文件清单。
+
 ## 法律来源
 
 最权威的，也是最详细的文件清单列表，就在睡觉可以当作枕头的[外国人入境与居留和庇护权利之法典 Code de l'entrée et du séjour des étrangers et du droit d'asile](https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006070158)的[附录 10](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043472320) 中。

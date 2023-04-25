@@ -4,7 +4,7 @@ words_per_minute: 20
 last_modified_at: 2021-09-24
 ---
 
-在之前关于[法国外国人职员居留的博文](/2018/03/25/carte-de-sejour-salarie)中提到了关于硕士学生的 APS 的改革已经于 2019 年 3 月 1 日起实施，相关的在外国人法典和劳工法的法令（circulaire 在[这里](https://drive.google.com/file/d/1K8KZQ7NeYMW1rq75pcaD2zQAFWfDi998)，尽管没什么信息）也公布出来，下面就来比较一下改革前后的区别。
+在之前关于[法国外国人职员居留的博文](/tds/carte-de-sejour-salarie/)中提到了关于硕士学生的 APS 的改革已经于 2019 年 3 月 1 日起实施，相关的在外国人法典和劳工法的法令（circulaire 在[这里](https://drive.google.com/file/d/1K8KZQ7NeYMW1rq75pcaD2zQAFWfDi998)，尽管没什么信息）也公布出来，下面就来比较一下改革前后的区别。
 
 |                                    | 以前的 APS                                                   | 现在的 Carte de séjour "*recherche d'emploi*"                |
 | ---------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -15,6 +15,14 @@ last_modified_at: 2021-09-24
 | 后续可申请居留                     | *Salarié*, *travailleur temporaire*, *entrepreneur*, *passeport-talent* | 一样                                                         |
 | 后续申请十年居留 Carte de résident | 不计入在 5 年计算中                                          | 计入在 5 年计算中                                            |
 | 其他                               |                                                              | 如果拿到硕士以上文凭之后离开法国，那么 4 年内可以回法国申请这个居留（以一个 1 年期的 VLS-TS 等效居留的长期签证的形式） |
+
+## 工作类型
+
+根据条款 [L. 422-10](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042776663)， carte de séjour "*recherche d'emploi*" 的持有人可以从事职员工作（CDI, CDD）也可以创业。
+
+需要注意的是，[L. 422-11](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042776661) 条款规定，如果从事职员工作，那么工作必须和硕士专业或研究相关，工资也必须大于 1.5 倍 SMIC。
+
+由于 carte de séjour "*recherche d'emploi*" 免除工作许可，所以具体对你期间工作的工资要求不会进行系统审核，但有可能被抽查。
 
 ## 申请期间凭借 Récépissé 也可直接工作
 
