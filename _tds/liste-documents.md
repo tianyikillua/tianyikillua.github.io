@@ -20,6 +20,8 @@ words_per_minute: 20
 - [10 年签 Carte de résident de longue durée](/assets/documents/fiches/CR1.pdf){:target="_blank" rel="noopener"}
 - [10 年（其他情况）](/assets/documents/fiches/CR2.pdf){:target="_blank" rel="noopener"}
 - [10 年签续](/assets/documents/fiches/CR3.pdf){:target="_blank" rel="noopener"}
+- [家庭团聚和法国人的家庭](/assets/documents/fiches/CST1.pdf){:target="_blank" rel="noopener"}
+- [其他 Vie privée et familiale](/assets/documents/fiches/CST2.pdf){:target="_blank" rel="noopener"}
 - [人才 Talent salarié](/assets/documents/fiches/CSP1_1.pdf){:target="_blank" rel="noopener"}
 - [人才 Talent carte bleue](/assets/documents/fiches/CSP1_2.pdf){:target="_blank" rel="noopener"}
 - [人才 Talent salarié en mission](/assets/documents/fiches/CSP1_3.pdf){:target="_blank" rel="noopener"}
