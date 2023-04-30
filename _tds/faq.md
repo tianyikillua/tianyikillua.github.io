@@ -66,11 +66,11 @@ classes: default
 
   十年长居卡的期限是...10 年，不管有没有那个 longue durée-UE 标注。
 
-- **居留的期限和我护照的期限有关联吗？**
+- **申请续居留应该提前多久？**
 
-  这取决于你要申请的长居卡的类型。如果是短期长居卡，那么其期限不能大于你护照的有效期。如果是多年长居卡和十年长居卡，那么就没有这个限制。
-
-  假设你护照今年就过期，你是学生找到一份工作工资不高只能申请 salarié 长居（而不是 passeport-talent），那么你只能拿到一张短期长居卡。由于这张卡的有效期不能超过你护照的有效期，所以要么这张卡的期限没有 1 年，要么警察局会叫你去续你的护照。
+  根据 [R431-5](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043292776)：
+  - 如果你申请的居留卡类型[可以在网上申请](/tds/demande-tds-en-ligne)，那么需要在过期前 2 至 4 个月内提交申请。
+  - 否则的话，提前 2 个月左右申请。每个警察局可能会有具体的一些要求。比如 [Préfecture de Nanterre](https://www.hauts-de-seine.gouv.fr/Demarches/Etrangers-dans-les-Hauts-de-Seine/SEJOUR/SEJOUR-prefecture-de-Nanterre/Foire-aux-questions-Sejour-prefecture-de-Nanterre) 要求提前 3 个月左右申请。
 
 ## 工作
 
