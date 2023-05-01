@@ -39,4 +39,5 @@ layout: collection
 | 2023 年 3 月 | 申请 Visiteur，10 年卡和法籍的相关事宜 |
 | 2023 年 4 月 | 学生居留工作 964 小时的相关问题 |
 | 2023 年 4 月 | Passeport-talent chercheur 续卡、申请 APS 和十年卡的相关问题 |
-| 2023 年 4 月 | Carte de séjour recherche d'emploi 卡签 contrat de professionnalisation 和之后续居留的问题  |
+| 2023 年 4 月 | Carte de séjour recherche d'emploi 卡签 contrat de professionnalisation 和之后续居留的问题 |
+| 2023 年 5 月 | 申请 Passport-talent profession artistique 的相关问题 |
