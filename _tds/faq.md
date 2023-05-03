@@ -72,6 +72,8 @@ classes: default
   - 如果你申请的居留卡类型[可以在网上申请](/tds/demande-tds-en-ligne)，那么需要在过期前 2 至 4 个月内提交申请。
   - 否则的话，提前 2 个月左右申请。每个警察局可能会有具体的一些要求。比如 [Préfecture de Nanterre](https://www.hauts-de-seine.gouv.fr/Demarches/Etrangers-dans-les-Hauts-de-Seine/SEJOUR/SEJOUR-prefecture-de-Nanterre/Foire-aux-questions-Sejour-prefecture-de-Nanterre) 要求提前 3 个月左右申请。
 
+  如果不在法律规定的期限内申请，[那么需要交罚款 180 欧](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042776292)。
+
 ## 工作
 
 - **学生居留的工作时长 964 小时如何计算？**
