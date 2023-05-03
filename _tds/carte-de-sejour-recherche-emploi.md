@@ -1,7 +1,7 @@
 ---
 title: "Carte de séjour recherche d'emploi"
 words_per_minute: 20
-last_modified_at: 2021-09-24
+last_modified_at: 2023-05-03
 ---
 
 在之前关于[法国外国人职员居留的博文](/tds/carte-de-sejour-salarie/)中提到了关于硕士学生的 APS 的改革已经于 2019 年 3 月 1 日起实施，相关的在外国人法典和劳工法的法令（circulaire 在[这里](https://drive.google.com/file/d/1K8KZQ7NeYMW1rq75pcaD2zQAFWfDi998)，尽管没什么信息）也公布出来，下面就来比较一下改革前后的区别。
