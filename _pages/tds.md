@@ -41,4 +41,4 @@ layout: collection
 | 2023 年 4 月 | Passeport-talent chercheur 续卡、申请 APS 和十年卡的相关问题 |
 | 2023 年 4 月 | Carte de séjour recherche d'emploi 卡签 contrat de professionnalisation 和之后续居留的问题 |
 | 2023 年 5 月 | 申请 Passport-talent profession artistique 的相关问题 |
-| 2023 年 5 月 | Passport-talent chercheur 持有人续 Carte de séjour "recherche d'emploi"时，其家属的居留问题 |
+| 2023 年 5 月 | Passport-talent chercheur 持有人续 Carte de séjour "recherche d'emploi" 时，其家属的居留问题 |
