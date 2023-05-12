@@ -44,3 +44,4 @@ layout: collection
 | 2023 年 5 月 | Passport-talent chercheur 持有人续 Carte de séjour "recherche d'emploi" 时，其家属的居留问题 |
 | 2023 年 5 月 | 搬家后更新地址的相关问题 |
 | 2023 年 5 月 | Passeport-talent 未过期申请 10 年卡的问题 |
+| 2023 年 5 月 | 签 Contrat de professionnalisation 的一些居留问题 |
