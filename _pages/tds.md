@@ -13,7 +13,7 @@ layout: collection
 
 2023 年 5 月 11 日，在[粒粒橙和被姐的邀请下](https://mp.weixin.qq.com/s/gVKpsaaPgnUOBqJ8uAPxrQ)，我做了一个关于我法国居留法律咨询的讲座和问答。通过下面这个 PPT 可以大致明白我做居留咨询的起因和现状。
 
-[![](/assets/images/pages/presentation-tds.png")](/assets/documents/presentation-tds.pdf){:target="_blank" rel="noopener"}
+[![](/assets/images/pages/presentation-tds.png)](/assets/documents/presentation-tds.pdf){:target="_blank" rel="noopener"}
 
 如果你需要相关法律咨询（学生居留，工签，换身份等），请首先通过邮箱联系我 tianyikillua (at) gmail.com，我将提供具体资费等信息。
 {: .notice--success}
