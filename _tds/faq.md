@@ -102,6 +102,19 @@ classes: default
 
   详见这个[列表](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042801330/#LEGISCTA000042806982)。
 
+## 博士与研究人员
+
+- **什么情况下可以申请 Passeport-talent chercheur ?**
+
+  申请 Passeport-talent chercheur 最重要的材料就是接待协议 Convention d'accueil。
+
+  根据[法国高等教育部的说明](https://www.enseignementsup-recherche.gouv.fr/fr/accueil-en-france-des-scientifiques-etrangers-46403)，能获得 Convention d'accueil 的条件是
+
+  1. 在法国有工作合同，比如 CDI
+  2. 在法国有博士合同，不管是 contrat doctoral，还是 CIFRE，或其他一些公共机构提供的合同，
+  3. 你在国内的研究机构工作
+  4. 你在国内公共机构的博士奖学金，工资超过[法国博士合同的最低工资](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000033076467/)。需要注意的是法国的研究机构也可以选择给你一个补充奖学金，是总共的奖学金金额大于这个最低工资。
+
 ## 十年长居
 
 - **申请十年长居的主要条件是什么？**
