@@ -49,3 +49,4 @@ layout: collection
 | 2023 年 5 月 | 搬家后更新地址的相关问题 |
 | 2023 年 5 月 | Passeport-talent 未过期申请 10 年卡的问题 |
 | 2023 年 5 月 | 签 Contrat de professionnalisation 的一些居留问题 |
+| 2023 年 5 月 | Entrepreneur 申请过程中再转成工签等一些情况 |
