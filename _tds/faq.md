@@ -92,6 +92,12 @@ classes: default
 
   如果你满足「人才护照」的条件，那么是的，<u>如果警察局按照你申请人才护照的程序走的话</u>，那么你直接可以拿到一张 4 年的长居卡。如果你知道自己符合「人才护照」，那么请就通过填写特别的「人才护照」申请表、或者写附加说明信，申请「人才护照」长居卡。如果你只是申请了一般职工长居 salarié / travailleur temporaire，那么如果警察局没有走「人才护照」程序的话，<u>然后劳工局 DIRECTTE 也没有注意的话</u>，那么如果给你了一般职员的长居卡，那么就是 1 年。存在情况是劳工局注意到你满足「人才护照」条件，按照要求不需要进行劳工局审核，然后把档案退回到警察局。这种情况下你最终当然拿到 4 年卡，但申请时间变长。
 
+- **学生签 contrat d'apprentissage 有何条件？**
+
+  如果是硕士学生，那么在法国第一年就可以签 contrat d'apprentissage。否则需要在法国居住满一年。
+
+  根据劳工法 [R5221-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043323648)，学生居留做 contrat d'apprentissage 不需要申请工作许可。
+
 - **申请失业金需要什么条件？**
 
   根据 [Pole emploi](https://www.pole-emploi.fr/candidat/mes-droits-aux-aides-et-allocati/lessentiel-a-savoir-sur-lallocat/ai-je-droit-a-lallocation-chomag.html) 的页面，你首先需要满足针对所有人的条件，比如在过去 2 年内至少工作了 4 个月。
