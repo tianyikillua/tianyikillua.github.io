@@ -51,3 +51,4 @@ layout: collection
 | 2023 年 5 月 | 签 Contrat de professionnalisation 的一些居留问题 |
 | 2023 年 5 月 | Entrepreneur 申请过程中再转成工签等一些情况 |
 | 2023 年 5 月 | 申请 Passeport-talent chercheur 的一些问题 |
+| 2023 年 6 月 | 学生换工签的一些问题 |
