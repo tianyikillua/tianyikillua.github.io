@@ -23,10 +23,11 @@ last_modified_at: 2023-04-30
 
 根据[法国内政部的宣传](https://www.immigration.interieur.gouv.fr/Info-ressources/Actualites/L-actu-immigration/Qu-est-ce-que-l-Administration-Numerique-pour-les-Etrangers-en-France)和[一些警察局的信息](https://www.ain.gouv.fr/Demarches/Un-document-de-sejour-pour-etranger-une-naturalisation-francaise/Titre-de-sejour/Modalites-d-accueil-des-etrangers-a-la-prefecture-de-l-Ain/Demander-un-titre-de-sejour/Modalites-d-accueil-des-etrangers-a-la-prefecture-de-l-Ain)，可以确定这个平台将逐渐推广到所有居留类型。原本计划在 2022 年末将完成全部推广，但可能因为疫情和其他一些原因使得时间表一拖再拖，在本文更新时的 2023 年 5 月份仍然有很多居留不能在这个网上平台直接申请。最近有[一名参议员还问了法国内政部关于其他居留在这个平台上申请的事宜](https://www.senat.fr/questions/base/2023/qSEQ230104799.html)。
 
-目前（2023 年 5 月），可以在该平台上申请的居留类型有
+目前（2023 年 6 月），可以在该平台上申请的居留类型有
 
 | 日期                            | 居留类型                                                     |
 | ------------------------------- | ------------------------------------------------------------ |
+| 2023 年 6 月 | 在法国出生人员的居留、VPF 家庭团聚居留 |
 | 2023 年 4 月 | 法籍配偶 Conjoint d'un ressortissant français、法籍子女的父母 parent d'un enfant français、法籍经济不独立父母 ascendant à charge d'un ressortissant français、法籍的子女 enfant étranger d'un ressortissant français、季节临时工作 travailleur saisonnier、欧盟公民的非欧盟家属 |
 | 2022 年 9 月 | 欧盟公民                 |
 | 2022 年 3 - 4 月                   | 人权国际保护 protection internationale、难民旅行证 titre de voyage                     |

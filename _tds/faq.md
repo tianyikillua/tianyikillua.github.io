@@ -98,6 +98,14 @@ classes: default
 
   根据劳工法 [R5221-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043323648)，学生居留做 contrat d'apprentissage 不需要申请工作许可。
 
+- **学生居留工作可以超过 964 小时吗？**
+
+  一般来说，学生从事职员工作（学生不能从事自由职业者）每年不能超过 964 小时。
+
+  但如果你的学业要求工作，比如博士、律师学校或者医学院，那么根据[R5221-3](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043325451)，可以申请工作许可。
+
+  有了工作许可之后，就没有这个工作时长限制了。
+
 - **申请失业金需要什么条件？**
 
   根据 [Pole emploi](https://www.pole-emploi.fr/candidat/mes-droits-aux-aides-et-allocati/lessentiel-a-savoir-sur-lallocat/ai-je-droit-a-lallocation-chomag.html) 的页面，你首先需要满足针对所有人的条件，比如在过去 2 年内至少工作了 4 个月。
