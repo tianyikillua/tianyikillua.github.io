@@ -56,3 +56,4 @@ layout: collection
 | 2023 年 6 月 | 申请欧盟蓝卡的一些问题|
 | 2023 年 6 月 | 学业期间工作的一些问题 |
 | 2023 年 6 月 | APS 卡持有人签 Contrat d’apprentissage 的一些问题 |
+| 2023 年 6 月 | Salarié en mission 后续居留问题 |
