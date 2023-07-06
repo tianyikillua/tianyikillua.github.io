@@ -57,3 +57,5 @@ layout: collection
 | 2023 年 6 月 | 学业期间工作的一些问题 |
 | 2023 年 6 月 | APS 卡持有人签 Contrat d’apprentissage 的一些问题 |
 | 2023 年 6 月 | Salarié en mission 后续居留问题 |
+| 2023 年 7 月 | 申请 Passeport-talent profession artistique 及 APS 的问题 |
+| 2023 年 7 月 | 申请 APS 期间工作的问题 |
