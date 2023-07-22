@@ -60,3 +60,4 @@ layout: collection
 | 2023 年 7 月 | 申请 Passeport-talent profession artistique 及 APS 的问题 |
 | 2023 年 7 月 | 申请 APS 期间工作的问题 |
 | 2023 年 7 月 | 申请 Passeport-talent profession artistique 的问题 |
+| 2023 年 7 月 | 申请 10 年卡的问题 |
