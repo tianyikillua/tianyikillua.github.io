@@ -62,3 +62,4 @@ layout: collection
 | 2023 年 7 月 | 申请 Passeport-talent profession artistique 的问题 |
 | 2023 年 7 月 | 申请 10 年卡的问题 |
 | 2023 年 7 月 | 硕士学生毕业之后一些居留选择问题 |
+| 2023 年 7 月 | 申请 10 年卡的问题 |
