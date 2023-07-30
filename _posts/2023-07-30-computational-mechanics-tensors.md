@@ -60,7 +60,7 @@ $$
 \strain\cdot\stress=\sum_{i=1}^3\sum_{j=1}^3\varepsilon_{ij}\sigma_{ij}=\strain_\mathrm{V}\cdot\stress_\mathrm{V}=\strain_\mathrm{M}\cdot\stress_\mathrm{M}
 $$
 
-其中 $$\strain\cdot\stress$$ 中的内积理解成二阶张量之间的 double contraction，而 Voigt 记号 和 Mandel 记号中的内积理解成 $$\mathbb{R}^6$$ 中的内积 $$\mathbf{u}\cdot\mathbf{v}=\sum_{i=1}^3u_iv_i$$。内积守恒条件使得我们可以用普通矢量之间的内积来计算二阶张量的内积。由于 $$\strain\cdot\stress$$ 项经常出现于固体力学的弱形式中，所以该条件非常有用。
+其中 $$\strain\cdot\stress$$ 中的内积理解成二阶张量之间的 double contraction，而 Voigt 记号 和 Mandel 记号中的内积理解成 $$\mathbb{R}^6$$ 中的内积 $$\mathbf{u}\cdot\mathbf{v}=\sum_{i=1}^6 u_iv_i$$。内积守恒条件使得我们可以用普通矢量之间的内积来计算二阶张量的内积。由于 $$\strain\cdot\stress$$ 项经常出现于固体力学的弱形式中，所以该条件非常有用。
 
 商业计算力学软件中普遍使用 Voigt 记号（比如 [Abaqus](https://help.3ds.com/2023/English/DSSIMULIA_Established/SIMACAEMODRefMap/simamod-c-conventions.htm?contextscope=all&id=274ceb5c39b8484a8afbce41676a635e#simamod-c-conventions-t-StressAndStrainMeasures-sma-topic20)），主要有如下原因
 
@@ -89,12 +89,10 @@ $$
 
 ## 四阶张量及其表达
 
-在分别选取线性空间 $$V$$ 和 $$W$$ 的一个基底之后，一个线性映射 $T:V\to W$ 可以由一个矩阵表示
+在分别选取线性空间 $$V$$ 和 $$W$$ 的一个基底之后，一个线性映射 $$T:V\to W$$ 可以由一个矩阵表示
 
 $$
-T=\begin{bmatrix}
-T(\mathbf{v}_1) & T(\mathbf{v}_2) & \ldots & T(\mathbf{v}_n)
-\end{bmatrix},\quad T(\mathbf{v}_j)=\sum_{i=1}^m T_{ij}\mathbf{w}_i\quad\implies T=\begin{bmatrix}
+T(\mathbf{v}_j)=\sum_{i=1}^m T_{ij}\mathbf{w}_i\quad\implies T=\begin{bmatrix}
 T_{11} & T_{12} & \ldots & T_{1n} \\
 T_{21} & T_{22} & \ldots & T_{2n} \\
 \ldots & \ldots & \ldots & \ldots \\
@@ -155,7 +153,8 @@ $$
 可以简单验证 $$\mathbb{C}$$ 的确是一个从 $$\strain$$ 到 $$\stress$$ 的线性映射。在这个情况下，它的 Voigt 记号和 Mandel 记号分别得到
 
 $$
-\mathbb{C}_\mathrm{V}=\begin{bmatrix}\lambda + 2 \mu & \lambda & \lambda & 0 & 0 & 0\\\lambda & \lambda + 2 \mu & \lambda & 0 & 0 & 0\\\lambda & \lambda & \lambda + 2 \mu & 0 & 0 & 0\\0 & 0 & 0 & \mu & 0 & 0\\0 & 0 & 0 & 0 & \mu & 0\\0 & 0 & 0 & 0 & 0 & \mu\end{bmatrix},\quad \mathbb{C}_\mathrm{M}=\begin{bmatrix}\lambda + 2 \mu & \lambda & \lambda & 0 & 0 & 0\\\lambda & \lambda + 2 \mu & \lambda & 0 & 0 & 0\\\lambda & \lambda & \lambda + 2 \mu & 0 & 0 & 0\\0 & 0 & 0 & 2\mu & 0 & 0\\0 & 0 & 0 & 0 & 2\mu & 0\\0 & 0 & 0 & 0 & 0 & 2\mu\end{bmatrix}
+\mathbb{C}_\mathrm{V}=\begin{bmatrix}\lambda + 2 \mu & \lambda & \lambda & 0 & 0 & 0\\\lambda & \lambda + 2 \mu & \lambda & 0 & 0 & 0\\\lambda & \lambda & \lambda + 2 \mu & 0 & 0 & 0\\0 & 0 & 0 & \mu & 0 & 0\\0 & 0 & 0 & 0 & \mu & 0\\0 & 0 & 0 & 0 & 0 & \mu\end{bmatrix} \\
+\mathbb{C}_\mathrm{M}=\begin{bmatrix}\lambda + 2 \mu & \lambda & \lambda & 0 & 0 & 0\\\lambda & \lambda + 2 \mu & \lambda & 0 & 0 & 0\\\lambda & \lambda & \lambda + 2 \mu & 0 & 0 & 0\\0 & 0 & 0 & 2\mu & 0 & 0\\0 & 0 & 0 & 0 & 2\mu & 0\\0 & 0 & 0 & 0 & 0 & 2\mu\end{bmatrix}
 $$
 
 ### 张量的旋转
@@ -219,7 +218,8 @@ $$
 
 $$
 \mathbf{A}_\mathrm{M}=\begin{bmatrix}\lambda + 2 \mu & \mu & \mu & 0 & 0 & 0\\\mu & \lambda + 2 \mu & \mu & 0 & 0 & 0\\\mu & \mu & \lambda + 2 \mu & 0 & 0 & 0\\0 & 0 & 0 & \lambda + \mu & 0 & 0\\0 & 0 & 0 & 0 & \lambda + \mu & 0\\0 & 0 & 0 & 0 & 0 & \lambda + \mu\end{bmatrix}
-\begin{bmatrix}n_{0}^{2}\\n_{1}^{2}\\n_{2}^{2}\\\sqrt{2} n_{0} n_{1}\\\sqrt{2} n_{0} n_{2}\\\sqrt{2} n_{1} n_{2}\end{bmatrix}=\begin{bmatrix}\mu {n}_{1}^{2} + \mu {n}_{2}^{2} + \left(\lambda + 2 \mu\right) {n}_{0}^{2}\\\mu {n}_{0}^{2} + \mu {n}_{2}^{2} + \left(\lambda + 2 \mu\right) {n}_{1}^{2}\\\mu {n}_{0}^{2} + \mu {n}_{1}^{2} + \left(\lambda + 2 \mu\right) {n}_{2}^{2}\\\sqrt{2} \left(\lambda + \mu\right) {n}_{0} {n}_{1}\\\sqrt{2} \left(\lambda + \mu\right) {n}_{0} {n}_{2}\\\sqrt{2} \left(\lambda + \mu\right) {n}_{1} {n}_{2}\end{bmatrix}
+\begin{bmatrix}n_{0}^{2}\\n_{1}^{2}\\n_{2}^{2}\\\sqrt{2} n_{0} n_{1}\\\sqrt{2} n_{0} n_{2}\\\sqrt{2} n_{1} n_{2}\end{bmatrix} \\
+=\begin{bmatrix}\mu {n}_{1}^{2} + \mu {n}_{2}^{2} + \left(\lambda + 2 \mu\right) {n}_{0}^{2}\\\mu {n}_{0}^{2} + \mu {n}_{2}^{2} + \left(\lambda + 2 \mu\right) {n}_{1}^{2}\\\mu {n}_{0}^{2} + \mu {n}_{1}^{2} + \left(\lambda + 2 \mu\right) {n}_{2}^{2}\\\sqrt{2} \left(\lambda + \mu\right) {n}_{0} {n}_{1}\\\sqrt{2} \left(\lambda + \mu\right) {n}_{0} {n}_{2}\\\sqrt{2} \left(\lambda + \mu\right) {n}_{1} {n}_{2}\end{bmatrix}
 $$
 
 ## Python 库
