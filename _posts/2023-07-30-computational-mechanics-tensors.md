@@ -153,8 +153,10 @@ $$
 可以简单验证 $$\mathbb{C}$$ 的确是一个从 $$\strain$$ 到 $$\stress$$ 的线性映射。在这个情况下，它的 Voigt 记号和 Mandel 记号分别得到
 
 $$
-\mathbb{C}_\mathrm{V}=\begin{bmatrix}\lambda + 2 \mu & \lambda & \lambda & 0 & 0 & 0\\\lambda & \lambda + 2 \mu & \lambda & 0 & 0 & 0\\\lambda & \lambda & \lambda + 2 \mu & 0 & 0 & 0\\0 & 0 & 0 & \mu & 0 & 0\\0 & 0 & 0 & 0 & \mu & 0\\0 & 0 & 0 & 0 & 0 & \mu\end{bmatrix} \\
-\mathbb{C}_\mathrm{M}=\begin{bmatrix}\lambda + 2 \mu & \lambda & \lambda & 0 & 0 & 0\\\lambda & \lambda + 2 \mu & \lambda & 0 & 0 & 0\\\lambda & \lambda & \lambda + 2 \mu & 0 & 0 & 0\\0 & 0 & 0 & 2\mu & 0 & 0\\0 & 0 & 0 & 0 & 2\mu & 0\\0 & 0 & 0 & 0 & 0 & 2\mu\end{bmatrix}
+\begin{aligned}
+\mathbb{C}_\mathrm{V} &= \begin{bmatrix}\lambda + 2 \mu & \lambda & \lambda & 0 & 0 & 0\\\lambda & \lambda + 2 \mu & \lambda & 0 & 0 & 0\\\lambda & \lambda & \lambda + 2 \mu & 0 & 0 & 0\\0 & 0 & 0 & \mu & 0 & 0\\0 & 0 & 0 & 0 & \mu & 0\\0 & 0 & 0 & 0 & 0 & \mu\end{bmatrix} \\
+\mathbb{C}_\mathrm{M} &= \begin{bmatrix}\lambda + 2 \mu & \lambda & \lambda & 0 & 0 & 0\\\lambda & \lambda + 2 \mu & \lambda & 0 & 0 & 0\\\lambda & \lambda & \lambda + 2 \mu & 0 & 0 & 0\\0 & 0 & 0 & 2\mu & 0 & 0\\0 & 0 & 0 & 0 & 2\mu & 0\\0 & 0 & 0 & 0 & 0 & 2\mu\end{bmatrix}
+\end{aligned}
 $$
 
 ### 张量的旋转
@@ -217,9 +219,11 @@ $$
 所以对于 acoustic tensor，我们有
 
 $$
-\mathbf{A}_\mathrm{M}=\begin{bmatrix}\lambda + 2 \mu & \mu & \mu & 0 & 0 & 0\\\mu & \lambda + 2 \mu & \mu & 0 & 0 & 0\\\mu & \mu & \lambda + 2 \mu & 0 & 0 & 0\\0 & 0 & 0 & \lambda + \mu & 0 & 0\\0 & 0 & 0 & 0 & \lambda + \mu & 0\\0 & 0 & 0 & 0 & 0 & \lambda + \mu\end{bmatrix}
+\begin{aligned}
+\mathbf{A}_\mathrm{M} &= \begin{bmatrix}\lambda + 2 \mu & \mu & \mu & 0 & 0 & 0\\\mu & \lambda + 2 \mu & \mu & 0 & 0 & 0\\\mu & \mu & \lambda + 2 \mu & 0 & 0 & 0\\0 & 0 & 0 & \lambda + \mu & 0 & 0\\0 & 0 & 0 & 0 & \lambda + \mu & 0\\0 & 0 & 0 & 0 & 0 & \lambda + \mu\end{bmatrix}
 \begin{bmatrix}n_{0}^{2}\\n_{1}^{2}\\n_{2}^{2}\\\sqrt{2} n_{0} n_{1}\\\sqrt{2} n_{0} n_{2}\\\sqrt{2} n_{1} n_{2}\end{bmatrix} \\
-=\begin{bmatrix}\mu {n}_{1}^{2} + \mu {n}_{2}^{2} + \left(\lambda + 2 \mu\right) {n}_{0}^{2}\\\mu {n}_{0}^{2} + \mu {n}_{2}^{2} + \left(\lambda + 2 \mu\right) {n}_{1}^{2}\\\mu {n}_{0}^{2} + \mu {n}_{1}^{2} + \left(\lambda + 2 \mu\right) {n}_{2}^{2}\\\sqrt{2} \left(\lambda + \mu\right) {n}_{0} {n}_{1}\\\sqrt{2} \left(\lambda + \mu\right) {n}_{0} {n}_{2}\\\sqrt{2} \left(\lambda + \mu\right) {n}_{1} {n}_{2}\end{bmatrix}
+&= \begin{bmatrix}\mu {n}_{1}^{2} + \mu {n}_{2}^{2} + \left(\lambda + 2 \mu\right) {n}_{0}^{2}\\\mu {n}_{0}^{2} + \mu {n}_{2}^{2} + \left(\lambda + 2 \mu\right) {n}_{1}^{2}\\\mu {n}_{0}^{2} + \mu {n}_{1}^{2} + \left(\lambda + 2 \mu\right) {n}_{2}^{2}\\\sqrt{2} \left(\lambda + \mu\right) {n}_{0} {n}_{1}\\\sqrt{2} \left(\lambda + \mu\right) {n}_{0} {n}_{2}\\\sqrt{2} \left(\lambda + \mu\right) {n}_{1} {n}_{2}\end{bmatrix}
+\end{aligned}
 $$
 
 ## Python 库
