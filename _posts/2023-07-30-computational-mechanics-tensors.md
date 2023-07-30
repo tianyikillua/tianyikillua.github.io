@@ -30,7 +30,7 @@ $$
 
 对于这类张量，至少存在以下三种表达方式。
 
-1. 应用于应变的 Voigt 记号
+- 应用于应变的 Voigt 记号
 
 $$
 \strain_\mathrm{V}=\begin{bmatrix}
@@ -38,7 +38,7 @@ $$
 \end{bmatrix}
 $$
 
-2. 应用于应力的 Voigt 记号
+- 应用于应力的 Voigt 记号
 
 $$
 \stress_\mathrm{V}=\begin{bmatrix}
@@ -46,7 +46,7 @@ $$
 \end{bmatrix}
 $$
 
-3. Mandel 记号，可以应用于任意二阶对称张量
+- Mandel 记号，可以应用于任意二阶对称张量
 
 $$
 \strain_\mathrm{M}=\begin{bmatrix}
