@@ -228,7 +228,9 @@ $$
 
 ## Python 库
 
-为方便获取上述张量的矩阵表达，我开发了一个基于 [sympy](https://www.sympy.org/en/index.html) 的 Python 库。由于是在工作期间开发，所以我先得确认一下是不是可以开源……
+为方便获取上述张量的矩阵表达，我开发了一个基于 [sympy](https://www.sympy.org/en/index.html) 的 Python 库。
+
+> [https://github.com/tianyikillua/tensorconvert](https://github.com/tianyikillua/tensorconvert)
 
 - 支持二阶和四阶张量的表达
 - 空间可以是二维或三维
@@ -238,5 +240,3 @@ API 参考了 [`scipy.spatial.transform.Rotation`](https://docs.scipy.org/doc/sc
 
 - `Tensor().from_...` 用某记号生成一个张量，返回张量类
 - `Tensor().as_...` 用某记号表示一个张量，返回 `sympy` 矩阵
-
-一旦可以开源的话我会更新链接分享。
