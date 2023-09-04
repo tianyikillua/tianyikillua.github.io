@@ -65,3 +65,5 @@ layout: collection
 | 2023 年 7 月 | 申请 10 年卡的问题 |
 | 2023 年 8 月 | Passeport-talent 后续居留申请问题 |
 | 2023 年 8 月 | 申请 APS 卡的问题 |
+| 2023 年 9 月 | 学生签 Contrat d’apprentissage 的问题 |
+| 2023 年 9 月 | Passeport-talent 申请 10 年卡的问题 |
