@@ -68,3 +68,4 @@ layout: collection
 | 2023 年 9 月 | 学生签 Contrat d’apprentissage 的问题 |
 | 2023 年 9 月 | Passeport-talent 申请 10 年卡的问题 |
 | 2023 年 9 月 | Vie privée et familiale 后续申请居留问题 |
+| 2023 年 9 月 | 申请 Passeport-talent 蓝卡的问题 |
