@@ -69,3 +69,5 @@ layout: collection
 | 2023 年 9 月 | Passeport-talent 申请 10 年卡的问题 |
 | 2023 年 9 月 | Vie privée et familiale 后续申请居留问题 |
 | 2023 年 9 月 | 申请 Passeport-talent 蓝卡的问题 |
+| 2023 年 10 月 | 申请 APS、学生等问题 |
+| 2023 年 10 月 | 瑞士学生申请法国工签等问题 |
