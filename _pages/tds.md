@@ -71,3 +71,4 @@ layout: collection
 | 2023 年 9 月 | 申请 Passeport-talent 蓝卡的问题 |
 | 2023 年 10 月 | 申请 APS、学生等问题 |
 | 2023 年 10 月 | 瑞士学生申请法国工签等问题 |
+| 2023 年 11 月 | 续 Passeport-talent chercheur 和申请 VPF 和 10 年卡等问题 |
