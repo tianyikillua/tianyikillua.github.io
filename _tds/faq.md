@@ -116,6 +116,12 @@ classes: default
 
   详见这个[列表](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042801330/#LEGISCTA000042806982)。
 
+- **我已经有 4 年 salarié 卡，可以换工作吗？**
+
+  2021 年后，每次换新工作公司都需要为你申请新的工作许可，请见 [2021 法国外国人居留政策新变化](/tds/changements-2021)。
+
+  根据[这个法律文档 (应该是 circulaire)](https://www.info-droits-etrangers.org/wp-content/uploads/2021/08/note-du-12-07-2021-sur-les-autorisations-de-travail-des-%C3%A9trangers.pdf)，如果你有多年制 salarié 卡，那么换工作的话（仍然是 CDI）新的工作许可享受 non-opposabilité 的条件（即硕士学生找工作的时候所享受的），即公司不需要证明招聘信息放在网上至少三周等条件。
+
 ## 博士与研究人员
 
 - **什么情况下可以申请 Passeport-talent chercheur ?**
