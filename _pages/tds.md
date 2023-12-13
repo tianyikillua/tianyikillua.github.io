@@ -74,3 +74,4 @@ layout: collection
 | 2023 年 11 月 | 续 Passeport-talent chercheur 和申请 VPF 和 10 年卡等问题 |
 | 2023 年 12 月 | 申请 10 年卡的问题 |
 | 2023 年 12 月 | 4 年工签卡换新工作申请工作许可的问题 |
+| 2023 年 12 月 | Passeport-talent chercheur 后续申请居留问题 |
