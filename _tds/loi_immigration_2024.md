@@ -7,7 +7,7 @@ lang: fr-FR
 
 雷声大雨点小的 2023-2024 新移民法在马克龙（在新德里）签署后终于[公布在了 Légifrance 上](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049040245)。法国的宪法委员会不出意外地[删掉了很多之前引起社会讨论的条款](https://www.conseil-constitutionnel.fr/decision/2024/2023863DC.htm)（比如需要学生居留需要担保金的要求），以至于最终审核通过并公布实施的法律完全就是“雷声大雨点小”。
 
-![](assets/images/2024/01/loi_immigration.png)
+![](/assets/images/2024/01/loi_immigration.png)
 
 对于法国留学生和打工创业人群，下面介绍一下这次关于法国居留的一些改动。这边不讨论关于违法、申诉、遣返、难民等相关条款。
 
