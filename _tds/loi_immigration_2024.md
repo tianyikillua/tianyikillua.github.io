@@ -106,7 +106,7 @@ lang: fr-FR
 
 以上是法律 loi 层面涉及的一些改动，后续还会有法令 décret / arrêté 来具体安排法律的实施。
 
-内政部的 [Document de présentation de la loi pour contrôler l'immigration et améliorer l'intégration](https://www.interieur.gouv.fr/sites/minint/files/medias/documents/2024-01/Presentation_loi_immigration.pdf) 这个文件中重新提到了我去年在 [2023 年法国外国人居留及工作政策新变化](/tds/changements-2023) 中所写的关于工作许可的新规定。
+内政部的 [Document de présentation de la loi pour contrôler l'immigration et améliorer l'intégration](https://www.interieur.gouv.fr/sites/minint/files/medias/documents/2024-01/Presentation_loi_immigration.pdf) 这个文件中重新提到了我去年在 [2023 年法国外国人居留及工作政策新变化](/tds/changements-2023)中所写的关于工作许可的新规定。
 
 > Pour renforcer l’intégration par le travail des étrangers déjà présents en France titulaires de certains titres « salarié », la procédure d’autorisation de travail déjà délivrée actuellement dans des délais réduits sera adaptée pour leur permettre de changer d’employeur plus facilement en tenant compte des différentes situations d’emploi.
 
