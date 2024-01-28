@@ -1,7 +1,7 @@
 ---
 title: "2023-2024 新移民法解读"
 words_per_minute: 20
-last_modified_at: 2024-01-27
+last_modified_at: 2024-01-28
 lang: fr-FR
 ---
 
@@ -92,6 +92,7 @@ lang: fr-FR
 > Est considéré comme résidant en France de manière habituelle l’étranger :
 >
 > 1 Qui y a transféré le centre de ses intérêts privés et familiaux ;
+>
 > 2 Et qui y séjourne pendant au moins six mois au cours de l’année civile, durant les trois dernières années précédant le dépôt de la demande ou, si la période du titre en cours de validité est inférieure à trois ans, pendant la durée totale de validité du titre.
 
 需要注意的是，该规定有一些例外
@@ -100,5 +101,15 @@ lang: fr-FR
 - Travailleur saisonnier（421-34）
 - 交换项目学生 étudiant - programme de mobilité（422-6）
 - 难民 protection subsidiaire 或无国籍人士 apatride（414-9, 424-11, 424-18, 424-19）
+
+## 后续
+
+以上是法律 loi 层面涉及的一些改动，后续还会有法令 décret / arrêté 来具体安排法律的实施。
+
+内政部的 [Document de présentation de la loi pour contrôler l'immigration et améliorer l'intégration](https://www.interieur.gouv.fr/sites/minint/files/medias/documents/2024-01/Presentation_loi_immigration.pdf) 这个文件中重新提到了我去年在 [2023 年法国外国人居留及工作政策新变化](/tds/changements-2023) 中所写的关于工作许可的新规定。
+
+> Pour renforcer l’intégration par le travail des étrangers déjà présents en France titulaires de certains titres « salarié », la procédure d’autorisation de travail déjà délivrée actuellement dans des délais réduits sera adaptée pour leur permettre de changer d’employeur plus facilement en tenant compte des différentes situations d’emploi.
+
+估计今年将会有新的法令 décret 来修改劳工法第 [R5221-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043325323) 条，方便打工者换工作，而不需要申请新的工作许可。
 
 [^1]: 其实这个 360 度审核方式在这个 [Rapport d'information](https://www.senat.fr/rap/r21-626/r21-6261.pdf) 就有提到，而且已经在一些警察局进行试点。这次是把一个法律框架制定了下来。
