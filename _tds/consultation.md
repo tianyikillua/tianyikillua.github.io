@@ -62,3 +62,4 @@ last_modified_at: 2024-01-27
 | 2023 年 12 月 | Passeport-talent chercheur 后续申请居留问题 |
 | 2024 年 1 月 | Passeport-talent chercheur 续居留问题 |
 | 2024 年 1 月 | APS 之后申请自由职业居留问题 |
+| 2024 年 1 月 | 申请艺术居留的问题 |
