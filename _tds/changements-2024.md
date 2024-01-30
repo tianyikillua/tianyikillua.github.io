@@ -8,7 +8,7 @@ last_modified_at: 2024-01-27
 
 ## 新外国人移民法
 
-参考 [2023-2024 新移民法解读](tds/loi_immigration_2024)。
+参考 [2023-2024 新移民法解读](/tds/loi_immigration_2024)。
 
 ## 继续推广在网上申请居留卡
 
