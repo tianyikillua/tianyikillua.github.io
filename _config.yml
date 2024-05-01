@@ -1,7 +1,6 @@
 # Theme Settings
 remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default"
-minimal_mistakes_skin2   : "dark"
 
 # Site Settings
 locale                   : "zh-CN"
@@ -29,7 +28,9 @@ algolia:
 
 # Analytics
 analytics:
-  provider               : "custom"
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-XB93772YGE"
 
 # Site Author
 author:
