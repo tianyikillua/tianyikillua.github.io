@@ -70,3 +70,6 @@ words_per_minute: 20
 | 2024 年 2 月 | 申请 Salarié en mission 和欧盟蓝卡的问题 |
 | 2024 年 2 月 | 续工签、换工作申请工作许可和申请 10 年居留卡的问题 |
 | 2024 年 4 月 | 申请 Talent salarié 和 10 年卡的问题 |
+| 2024 年 4 月 | 申请 Talent famille 的相关问题 |
+| 2024 年 6 月 | 咨询工作许可申请的问题 |
+| 2024 年 6 月 | Talent chercheur 后续居留问题 |
