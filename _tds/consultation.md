@@ -73,3 +73,4 @@ words_per_minute: 20
 | 2024 年 4 月 | 申请 Talent famille 的相关问题 |
 | 2024 年 6 月 | 咨询工作许可申请的问题 |
 | 2024 年 6 月 | Talent chercheur 后续居留问题 |
+| 2024 年 7 月 | 10 年卡居留申请失败申诉 |
