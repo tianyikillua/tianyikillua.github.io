@@ -29,3 +29,9 @@ TODO
 - 2023-08-24：上诉巴黎行政法院 Tribunal Administratif de Paris
 - 2023-09-05：警察局给了 carte de séjour salarié，有效期到 2024-07-28
 - 2023-10-17：法院裁决警察局必须接受上诉人的 10 年卡申请，并给予可以工作的 récépissé（不清楚工作是指仅仅是职员工作，还是允许所有类型的工作，即包括自由职业）。最关键的引用条款就是 [R431-6](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042806996)。
+
+## 申请方式
+
+如果你已经持有 Carte de résident (de longue-durée UE)，那么自 [2024 年 7 月](/tds/demande-tds-en-ligne)，可以在 [Administration numérique des étrangers en France](https://administration-etrangers-en-france.interieur.gouv.fr) 平台上申请续卡。
+
+根据 [Préfet de la Vendée](https://www.vendee.gouv.fr/Demarches/Etrangers/Guide-de-l-usager-ANEF-Administration-Numerique-pour-les-Etrangers-en-France)，如果你想在续当前卡的同时申请 Carte de résident de longue-durée UE，可以在 observation 初注明 "je sollicite une carte de résident"，并附上所有 10 年卡的申请文件。
