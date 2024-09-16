@@ -78,3 +78,4 @@ words_per_minute: 20
 | 2024 年 7 月 | RECE 卡到期申请 VPF 的问题 |
 | 2024 年 7 月 | 申请法籍的问题 |
 | 2024 年 7 月 | 申请 Talent artiste salarié 和 non-salarié 的问题 |
+| 2024 年 9 月 | Régularisation par le travail |
