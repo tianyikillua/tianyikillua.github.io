@@ -79,3 +79,4 @@ words_per_minute: 20
 | 2024 年 7 月 | 申请法籍的问题 |
 | 2024 年 7 月 | 申请 Talent artiste salarié 和 non-salarié 的问题 |
 | 2024 年 9 月 | Régularisation par le travail |
+| 2025 年 2 月 | Talent salarié 辞职相关问题 |
