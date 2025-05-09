@@ -8,7 +8,7 @@ last_modified_at: 2024-01-27
 
 ## 新外国人移民法
 
-参考 [2023-2024 新移民法解读](/tds/loi_immigration_2024)。
+参考 [2023-2024 新移民法解读](/tds/loi-immigration-2024)。
 
 ## 继续推广在网上申请居留卡
 
@@ -18,4 +18,4 @@ last_modified_at: 2024-01-27
 
 ## 新的 Métiers en tension
 
-[新移民法]((/tds/loi_immigration_2024))规定，政府必须每年更新一次 métiers en tension 列表。于是乎就有了 [Arrêté du 1er mars 2024 modifiant l'arrêté du 1er avril 2021 relatif à la délivrance, sans opposition de la situation de l'emploi, des autorisations de travail aux étrangers non ressortissants d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'Espace économique européen ou de la Confédération suisse](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049224208)，但结果其实并没有什么大改动。
+[新移民法]((/tds/loi-immigration-2024))规定，政府必须每年更新一次 métiers en tension 列表。于是乎就有了 [Arrêté du 1er mars 2024 modifiant l'arrêté du 1er avril 2021 relatif à la délivrance, sans opposition de la situation de l'emploi, des autorisations de travail aux étrangers non ressortissants d'un Etat membre de l'Union européenne, d'un autre Etat partie à l'Espace économique européen ou de la Confédération suisse](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049224208)，但结果其实并没有什么大改动。
