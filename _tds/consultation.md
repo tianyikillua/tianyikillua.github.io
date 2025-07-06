@@ -81,3 +81,4 @@ words_per_minute: 20
 | 2024 年 9 月 | Régularisation par le travail |
 | 2025 年 2 月 | Talent salarié 辞职相关问题 |
 | 2025 年 4 月 | Talent chercheur 后续居留申请问题 |
+| 2025 年 7 月 | Talent salarié 后续居留、10 年卡 和法籍申请相关问题 |
