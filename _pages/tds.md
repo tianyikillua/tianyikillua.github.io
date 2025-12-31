@@ -15,5 +15,5 @@ layout: collection
 
 [![](/assets/images/pages/presentation-tds.png)](/assets/documents/presentation-tds.pdf){:target="_blank" rel="noopener"}
 
-如果你需要相关法律咨询（学生居留，工签，换身份等），请首先通过邮箱联系我 tianyikillua (at) gmail.com，我将提供具体资费等信息。
-{: .notice--success}
+自 2026 起，我不再接受居留相关问题咨询，望谅解。
+{: .notice--danger}
