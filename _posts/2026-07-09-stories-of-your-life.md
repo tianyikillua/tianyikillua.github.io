@@ -10,7 +10,7 @@ words_per_minute: 20
 
 [![](/assets/images/2026/07/stories-of-your-life.png)](https://drive.google.com/file/d/1wCOuLPmttiJJE-8LN6csxWVle6lhM8ZJ/view?usp=sharing){:target="_blank" rel="noopener"}
 
-在[这个 Google Drive](https://drive.google.com/drive/folders/1qa1Eph3hrsEYpAaAp99Wj_uWR8alhtn_?usp=drive_link)中可以找到真正的 PPT（文件很大）和很多我讲到的论文或者影像文件：
+在[这个 Google Drive](https://drive.google.com/drive/folders/1qa1Eph3hrsEYpAaAp99Wj_uWR8alhtn_?usp=drive_link) 中可以找到真正的 PPT（文件很大）和很多我讲到的论文或者影像文件：
 
 - 猫猫总是可以四脚落地是为什么捏
 - 螃蟹卡农
